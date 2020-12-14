@@ -32,7 +32,7 @@ I'm friendly and enjoy discussing the day's challenges with my colleagues. I ten
 
 ### What type of role am I looking for?
 - Post-provisioning server and desktop environments using PowerShell, Azure, and 365. No issues learning other tools. 
-- Creating tools for use in data consumption. 
+- Creating tools for use in data consumption, post-provisioning, and quality assurance. 
 - Writing logic for business processes. 
 I need to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
 
