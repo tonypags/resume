@@ -20,6 +20,8 @@ Click [here](https://github.com/tonypags/resume/FAQ.md) to answer your most year
 I'm not on Facebook. [Good for you, Tony](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
 </br>
 </br>
+![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1613606400&v=beta&t=KNyQ7HvAZlX886ZxBht84GQOgV-JidPYBU1uLyaUf-k)
+</br>
 </br>
 
 ## Code Samples
