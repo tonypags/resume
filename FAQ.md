@@ -1,5 +1,21 @@
 # FAQ
 
+<!--ts-->
+* [What is my work experience?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-work-experience)
+* [What is a challenge I am seeking?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-a-challenge-I-am-seeking)
+* [What do I like most about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-most-about-my-current-job)
+* [What do I like least about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-least-about-my-current-job)
+* [Why do I want to leave my job?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-do-I-want-to-leave-my-job)
+* [Why did I stay there for so long?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-did-I-stay-there-for-so-long)
+* [What is my at-work personality like?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-at-work-personality-like)
+* [What type of role am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-role-am-I-looking-for)
+* [What type of company am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-company-am-I-looking-for)
+* [What is my biggest strength?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-strength)
+* [What is my biggest weakness?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-weakness)
+  * [Come on, really?](https://github.com/tonypags/resume/blob/master/FAQ.md#come-on-really)
+* [Is there anything about the industry I'm curious about?](https://github.com/tonypags/resume/blob/master/FAQ.md#is-there-anything-about-the-industry-I'm-curious-about)
+<!--te-->
+
 ### What is my work experience? 
 I have 6 years experience using PowerShell to accelerate my workflows, and produce business assets for internal and external consumption, including post-provisioning: software, configurations, mitigations, reporting, and quality assurance. I can design and build environments, but not as quickly as someone who does that every day. Until I start doing it every day, then Watch OUT❗️
 
@@ -52,7 +68,7 @@ Also my vulnerability. Those who get to know me know I'm not afraid to say "I do
 I have a big weakness for puzzles. I lose all track of time trying to solve them. Sometimes I forget to eat. 
 
 
-### Come on, really?
+#### Come on, really?
 Okay you got me. The biggest area of improvement in my life right now is precision of (spoken) language. 
 
 
