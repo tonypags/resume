@@ -5,13 +5,13 @@ Hey, look! A Windows Automation Engineer for your DevOps team.
 </br>
 
 ## All the Fuss
-[Click](https://github.com/tonypags/resume/AP-Resume.pdf) to [read](https://github.com/tonypags/resume/AP-Resume.pdf) my [resume](https://github.com/tonypags/resume/AP-Resume.pdf).
+[Click](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) to [read](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) my [resume](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf).
 </br>
 </br>
 </br>
 
 ## FAQ
-Click [here](https://github.com/tonypags/resume/FAQ.md) to answer your most yearning questions. This is like Interview Number Zero. 
+Click [here](https://github.com/tonypags/resume/blob/master/FAQ.md) to answer your most yearning questions. This is like Interview Number Zero. 
 </br>
 </br>
 </br>
