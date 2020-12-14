@@ -34,6 +34,7 @@ I'm friendly and enjoy discussing the day's challenges with my colleagues. I ten
 - Post-provisioning server and desktop environments using PowerShell, Azure, and 365. No issues learning other tools. 
 - Creating tools for use in data consumption, post-provisioning, and quality assurance. 
 - Writing logic for business processes. 
+
 I need to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
 
 
@@ -43,6 +44,7 @@ One with a clear vision and who reward teams, not just individuals.
 
 ### What is my biggest strength?
 My attention to detail. The tendancy is a bit much sometimes. No one likes to be corrected all the time. I have to bite my tongue a lot. 
+
 Also my vulnerability. Those who get to know me know I'm not afraid to say "I don't know" or ask for help. It goes both ways, you know. 
 
 
@@ -51,7 +53,7 @@ I have a big weakness for puzzles. I lose all track of time trying to solve them
 
 
 ### Come on, really?
-Okay you got me. My biggest area of improvement in my life right now is precision of (spoken) language. 
+Okay you got me. The biggest area of improvement in my life right now is precision of (spoken) language. 
 
 
 ### Is there anything about the industry I'm curious about?
