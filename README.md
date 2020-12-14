@@ -19,6 +19,7 @@ Click [here](https://github.com/tonypags/resume/blob/master/FAQ.md) to answer yo
 ## Code Samples
 - My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/)
 - My GUI tools module [PsGuiTools](https://github.com/tonypags/PsGuiTools)
+- My misc functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
 
 Also ask me for anonymized versions of some of my private work. </br>
 </br>
