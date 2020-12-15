@@ -1,5 +1,5 @@
 # resume
-Hey, look! A Windows Automation Engineer for your DevOps team.
+👀 A Windows Automation Engineer for your DevOps team.
 </br>
 </br>
 </br>
@@ -11,7 +11,7 @@ Hey, look! A Windows Automation Engineer for your DevOps team.
 </br>
 
 ## FAQ
-Click [here](https://github.com/tonypags/resume/blob/master/FAQ.md) to answer your most yearning questions. This is like Interview Number Zero. 
+Click [here](https://github.com/tonypags/resume/blob/master/FAQ.md) to answer your burning questions. This is like our zeroth interview. 
 </br>
 </br>
 </br>
@@ -26,9 +26,7 @@ Also ask me for anonymized versions of some of my private work. </br>
 </br>
 
 ## LinkedIn
-I'm not on Facebook. [Good for you, Tony](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
+[![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1613606400&v=beta&t=KNyQ7HvAZlX886ZxBht84GQOgV-JidPYBU1uLyaUf-k)](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
 </br>
-</br>
-![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1613606400&v=beta&t=KNyQ7HvAZlX886ZxBht84GQOgV-JidPYBU1uLyaUf-k)
 </br>
 </br>
