@@ -5,8 +5,8 @@
 * [What is a challenge I am seeking?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-a-challenge-I-am-seeking)
 * [What do I like most about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-most-about-my-current-job)
 * [What do I like least about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-least-about-my-current-job)
-* [Why do I want to leave my job?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-do-I-want-to-leave-my-job)
-* [Why did I stay there for so long?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-did-I-stay-there-for-so-long)
+* [Why do I want to leave my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-do-I-want-to-leave-my-current-job)
+* [Why have I stayed at my current job for so long?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-have-i-stayed-at-my-current-job-for-so-long)
 * [What is my at-work personality like?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-at-work-personality-like)
 * [What type of role am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-role-am-I-looking-for)
 * [What type of company am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-company-am-I-looking-for)
@@ -26,32 +26,32 @@ I'm not lazy. I tend to apply myself toward a more efficient state.
 
 
 ### What do I like most about my current job?
-What I enjoyed most in my last role was problem solving, working directly with other teams. 
+What I enjoy most in my current role is problem solving, and working directly with other teams. 
 After moving from field support to our RMM team, I wanted to be able to see support operations data from a higher level. I got to be creative for the first time in IT. I caught the bug, as they say. 
 
 
 ### What do I like least about my current job?
-There is not enough training on company procedures. But plenty of training on policies. 
+There is not enough training on company procedures, but plenty of training on policies. 
 
 
-### Why do I want to leave my job?
+### Why do I want to leave my current job?
 I'm looking for a creative challenge and I haven't been able to find one where I am.
 
 
-### Why did I stay there for so long?
-There were a lot of opportunities and I was on 2 different teams. I aim to stay at my next company as long or longer. We survive because we adapt. Let's adapt together! 🤝
+### Why have I stayed at my current job for so long?
+There were a lot of opportunities and I was on two different teams. I aim to stay at my next company as long or longer. We survive because we adapt. Let's adapt together! 🤝
 
 
 ### What is my at-work personality like?
-I'm friendly and enjoy discussing the day's challenges with my colleagues. I tend to be a nose to the grindstone type of person, and I need a few different tasks to keep myself fresh and focused (not 50! Some of you out there are bonkers). I enjoy taking walks to clear my mind. I think I'm the only person who doesn't like comic books in IT. 
+I'm friendly and enjoy discussing the day's challenges with my colleagues. I tend to be a nose to the grindstone type of person, and I need a few different tasks to keep myself fresh and focused (not 50! Some folks out there are bonkers). I enjoy taking walks to clear my mind. 
 
 
 ### What type of role am I looking for?
-- Post-provisioning server and desktop environments using PowerShell, Azure, and 365. No issues learning other tools. 
+- Post-provisioning server and desktop environments using PowerShell, Azure, and 365. I can learn other tools in a relatively short timeframe. 
 - Creating tools for use in data consumption, post-provisioning, and quality assurance. 
 - Writing logic for business processes. 
 
-I need to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
+I prefer to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
 
 
 ### What type of company am I looking for?
@@ -59,9 +59,7 @@ One with a clear vision and who reward teams, not just individuals.
 
 
 ### What is my biggest strength?
-My attention to detail. The tendancy is a bit much sometimes. No one likes to be corrected all the time. I have to bite my tongue a lot. 
-
-Also my vulnerability. Those who get to know me know I'm not afraid to say "I don't know" or ask for help. It goes both ways, you know. 
+My attention to detail. Also my vulnerability. Those who get to know me know I'm not afraid to say "I don't know" or ask for help. I've learned that asking for help builds trust and strengthens relationships. 
 
 
 ### What is my biggest weakness?
