@@ -13,7 +13,7 @@
 * [What is my biggest strength?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-strength)
 * [What is my biggest weakness?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-weakness)
   * [Come on, really?](https://github.com/tonypags/resume/blob/master/FAQ.md#come-on-really)
-* [Is there anything about the industry I'm curious about?](https://github.com/tonypags/resume/blob/master/FAQ.md#is-there-anything-about-the-industry-I'm-curious-about)
+* [Is there anything about the industry I'm curious about?](https://github.com/tonypags/resume/blob/master/FAQ.md#is-there-anything-about-the-industry-im-curious-about)
 <!--te-->
 
 ### What is my work experience? 
