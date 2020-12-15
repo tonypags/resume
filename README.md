@@ -4,14 +4,13 @@
 </br>
 </br>
 
-## All the Fuss
-[Click](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) to [read](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) my [resume](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf).
+[Click here](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) to read my current resume.
 </br>
 </br>
 </br>
 
 ## FAQ
-Click [here](https://github.com/tonypags/resume/blob/master/FAQ.md) to answer your burning questions. This is like our zeroth interview. 
+[Click here](https://github.com/tonypags/resume/blob/master/FAQ.md) to read my answers to your frequently asked interview questions. 
 </br>
 </br>
 </br>
@@ -25,7 +24,7 @@ Also ask me for anonymized versions of some of my private work. </br>
 </br>
 </br>
 
-## LinkedIn
+## LinkedIn Profile
 [![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1613606400&v=beta&t=KNyQ7HvAZlX886ZxBht84GQOgV-JidPYBU1uLyaUf-k)](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
 </br>
 </br>
