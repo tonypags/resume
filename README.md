@@ -2,15 +2,14 @@
 👀 A Windows Automation Engineer for your DevOps team.
 </br>
 </br>
-</br>
 
-[Click here](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) to read my current resume.
+📜 [Click here](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) to read my current resume.
 </br>
 </br>
 </br>
 
 ## FAQ
-[Click here](https://github.com/tonypags/resume/blob/master/FAQ.md) to read my answers to your frequently asked interview questions. 
+⁇ [Click here](https://github.com/tonypags/resume/blob/master/FAQ.md) to read my answers to your frequently asked interview questions. 
 </br>
 </br>
 </br>
