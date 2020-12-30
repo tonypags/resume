@@ -7,16 +7,16 @@
 </br>
 </br>
 
-📐 [Click here](https://github.com/tonypags/resume/blob/master/Personal-Projects.md) to review a list of personal projects I've done in my spare time.
+📢 [Click here](https://github.com/tonypags/resume/blob/master/Testimonials.md) to read feedback I received from my superiors.
 </br>
 </br>
 
-📢 [Click here](https://github.com/tonypags/resume/blob/master/Testimonials.md) to read feedback Tony has received from his superiors.
+📐 [Click here](https://github.com/tonypags/resume/blob/master/Personal-Projects.md) to review a list of personal projects I have done in my spare time.
 </br>
 </br>
 
 ## FAQ
-⁇ [Click here](https://github.com/tonypags/resume/blob/master/FAQ.md) to read my answers to your frequently asked interview questions. 
+⁇ [Click here](https://github.com/tonypags/resume/blob/master/FAQ.md) to read my answers to frequently asked interview questions. 
 </br>
 </br>
 </br>
