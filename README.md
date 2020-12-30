@@ -11,6 +11,10 @@
 </br>
 </br>
 
+📢 [Click here](https://github.com/tonypags/resume/blob/master/Testimonials.md) to read feedback Tony has received from his superiors.
+</br>
+</br>
+
 ## FAQ
 ⁇ [Click here](https://github.com/tonypags/resume/blob/master/FAQ.md) to read my answers to your frequently asked interview questions. 
 </br>
