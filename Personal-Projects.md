@@ -1,7 +1,7 @@
 # Personal Projects
 
 ## Home Server P2V Migration
-*March-June 2020*
+*March-May 2020*
 - Migrated services from Windows Home Server 2011 to multiple Linux VMs on VMWare.
 - Established DMZ subnet for internet-facing systems including media services, UniFi controller, and VPN. 
 - Centralized all non-OS storage to a single server with a JBOD/ZFS striped mirror, and NFS shares secured by ACL and hard/soft firewalls. 
@@ -18,10 +18,10 @@
 - Used public Grafana dashboard templates for server role status including: 
   - Server utilization (memory, CPU, disk usage/IO, etc). 
   - Weather conditions and history. 
+  - VPN uptime and auto-remediation history. 
+  - Pending package updates for all systems. 
+  - NFS latency. 
 - Created custom dashboard with metrics designed to show health of automation. 
-- VPN uptime and auto-remediation history. 
-- Pending package updates for all systems. 
-- NFS latency. 
 
 ## Automation Upgrade
 *November 2020*
