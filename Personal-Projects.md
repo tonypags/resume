@@ -16,8 +16,8 @@
 - Deployed Telegraf to all servers for data collection. 
 - Designed PowerShell script to check for and report to Influx on systems’ package updates. 
 - Used public Grafana dashboard templates for server role status including: 
-- Server utilization (memory, CPU, disk usage/IO, etc). 
-- Weather conditions and history. 
+  - Server utilization (memory, CPU, disk usage/IO, etc). 
+  - Weather conditions and history. 
 - Created custom dashboard with metrics designed to show health of automation. 
 - VPN uptime and auto-remediation history. 
 - Pending package updates for all systems. 
@@ -32,6 +32,6 @@
 *December 2020*
 - Migrated static website to Azure Web Apps. 
 - Added SSL support and custom domain name using 3rd-party registrar. 
-- Enabled GitHub Actions CD pipeline to auto-deploy changes on push or pull request. 
+- Configured GitHub Actions CD pipeline to auto-deploy changes on push or pull request. 
 - Cost savings $130 annually. 
 
