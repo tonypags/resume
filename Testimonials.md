@@ -1,5 +1,5 @@
 # Testimonials
-Read what Tony's managers have said about him in the past. 
+Read what Tony's <b>managers</b> have said about him recently. 
 
 <i>quoted from actual, internal review records</i>
 
