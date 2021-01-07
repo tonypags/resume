@@ -3,7 +3,7 @@
 </br>
 </br>
 
-📜 [Click here](https://github.com/tonypags/resume/blob/master/AP-Resume.pdf) to read my current resume.
+📜 [Click here](https://github.com/tonypags/resume/blob/master/A-Pagliaro-Resume.pdf) to read my current resume.
 </br>
 </br>
 
