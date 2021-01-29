@@ -45,10 +45,10 @@ DNS, DHCP.
 <br>
 
 ## Work History:
-### Richard Fleischman and Associates, Inc. New York, NY
+### Richard Fleischman and Associates, Inc. - New York, NY
 Mid-size MSP with a private data center based in NY, with offices and colocations globally.
 
-**Senior Automation Engineer**                          July 2018 – Present
+**Senior Automation Engineer** July 2018 – Present
 * Maintain infrastructure of remote access (ScreenConnect) and management (Solarwinds and LabTech)
 platforms.
 * Design and maintain custom PowerShell codebase and design solutions for internal and external stakeholders
@@ -62,7 +62,7 @@ syntax, logic, pipelines, modular function design, including PowerShell Desired 
 * Spearhead design of software deployment procedure and templates.
 
 
-**Applications Systems Administrator**                April 2015 – June 2018
+**Applications Systems Administrator** April 2015 – June 2018
 * Designed management solution for workstation maintenance by leveraging under-utilized features.
 * Built PowerShell solutions for custom interoperability between various platforms:
     * A scripted solution to aggregate daily backup reports from several different solutions..
@@ -73,7 +73,7 @@ syntax, logic, pipelines, modular function design, including PowerShell Desired 
 * Designed operational workflows for internal, day-to-day processes.
 * Championed documentation of workflows to facilitate incremental improvement by automation.
 
-**Senior Field Technician**                          April 2012 – April 2015
+**Senior Field Technician** April 2012 – April 2015
 * Hired to support the newly created office for the investment’s division of a Fortune 200 company.
     * Acted as a liaison between HQ and investment office staff, executives, managers, traders, and vendors.
     * Created procedures for on-boarding c-suite team, directors, managers, staff, and other vendors.
@@ -85,10 +85,10 @@ runbooks.
 
 <br>
 
-### Domino Computing, Inc. New York, NY
+### Domino Computing, Inc. - New York, NY
 Small MSP supporting clients’ technology in the New York/Tri-state area.
 
-**Senior Engineer/Field Technician**               October 2006 – April 2012
+**Senior Engineer/Field Technician** October 2006 – April 2012
 * Handled service escalations, trained and supervised new hires.
 * Performed changes to SonicWALL filter rules and VPN tunnels.
 * Handled service requests via phone, remote access, and on-site visits.
@@ -97,17 +97,17 @@ Small MSP supporting clients’ technology in the New York/Tri-state area.
 
 <br>
 
-### Costas Kondylis & Partners LLP New York, NY
+### Costas Kondylis & Partners LLP - New York, NY
 High-end residential architecture firm hired to assist IT Director.
 
-**Service Technician**                              June 2005 – October 2006
+**Service Technician** June 2005 – October 2006
 * Maintained Microsoft OS versions, AutoCAD, and large-format printers.
 * Handled requests from c-suite, architects, and administrative staff.
 
 <br>
 
 ## Education
-### University of Hartford West Hartford, CT
+### University of Hartford - West Hartford, CT
 B.S. in Mechanical Engineering with a Concentration in Acoustics 2000 – 2003
 <br>Minor: Mathematics
 <br>Status: Graduated with Honors, May 2003
@@ -115,7 +115,7 @@ B.S. in Mechanical Engineering with a Concentration in Acoustics 2000 – 2003
 
 <br>
 
-### University of New Haven West Haven, CT
+### University of New Haven - West Haven, CT
 B.S. in Industrial Engineering 1998 – 2000
 <br>Status: Transferred
 
