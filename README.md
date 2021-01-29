@@ -36,6 +36,9 @@ Also ask me for anonymized versions of some of my private work. </br>
 ⤴️ click me.</br>
 </br>
 
+## Azure Certification
+Check out [the progess I'm making](https://docs.microsoft.com/en-us/users/tony-3972/) towards my Azure certifications over at Microsoft Learn! 
+
 ## Misc Stuff
 [Google](https://www.google.com/search?q=tonypags+powershell) me!
 
