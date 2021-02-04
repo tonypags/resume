@@ -40,3 +40,16 @@
 - Configured GitHub Actions CD pipeline to auto-deploy changes on push or pull request. 
 - Cost savings $130 annually. 
 
+## Hard Drive Upgrade
+*January 2021*
+- Installed 2x10TB disk drives to replace 2x8TB drives and reduce noise. 
+- Replaced disks in ZFS array (5TB, about 5 days)
+- Zeroed out old drives (2x8TB, about 2 days; 2x6TB, about 2 days)
+
+# Roadmap
+*After finishing job search*
+- Symlink remaining systems config files, and Controller archives. 
+- Re-organize Ansible playbooks into roles. 
+- Manage iptables configs with Ansible.
+- Add Ansible roles for DNS and DHCP config.
+- Add a new guest to VMWare using Terraform.
