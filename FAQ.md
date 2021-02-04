@@ -8,8 +8,9 @@
 * [What do I like least about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-least-about-my-current-job)
 * [Why do I want to leave my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-do-I-want-to-leave-my-current-job)
 * [Why have I stayed at my current job for so long?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-have-i-stayed-at-my-current-job-for-so-long)
-* [What is my at-work personality like?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-at-work-personality-like)<!--* [What type of role am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-role-am-I-looking-for)-->
+* [What is my at-work personality like?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-at-work-personality-like)
 * [What type of company am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-company-am-I-looking-for)
+* [Am I willing to relocate for the right opportunity](https://github.com/tonypags/resume/blob/master/FAQ.md#am-I-willing-to-relocate-for-the-right-opportunity)
 * [What is my biggest strength?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-strength)
 * [What is my biggest weakness?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-weakness)
 <!--te-->
@@ -49,18 +50,18 @@ There were a lot of opportunities and I was on two different teams. I aim to sta
 ### What is my at-work personality like?
 I'm friendly and enjoy discussing the day's challenges with my colleagues. I tend to be a nose to the grindstone type of person, and I need a few different tasks to keep myself fresh and focused. I enjoy taking walks to clear my mind. 
 
-<!--
-### What type of role am I looking for?
-A person who is tasked with projects and escalations. 
-I am someone who can take on virtually any task and exceed expectations. 
-- Post-provisioning server and desktop environments using PowerShell, Azure, and 365. 
-- Resolving escalations pertaining to complex or systemic issues, finding root causes. 
-- Creating tools for use in data consumption, post-provisioning, and quality assurance. 
-- Writing logic for business processes. 
--->
 ---
 ### What type of company am I looking for?
 One with a clear vision, and who reward teams, not just individuals. I prefer to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
+
+---
+### Am I willing to relocate for the right opportunity?
+I would consider it proportionally to the number of boxes you check:  
+💻 I would need to start remotely. 
+🏖 It would need to be no more than 2 hours from a coastline. 
+👩‍🏫 My residence should be 30 minutes from an elementary school. 
+🕣 I would also need to live within 30 minutes of the office (or an hour if remote 3 days a week). 
+🌃 I would like to reside in a small, medium, or large city. 
 
 ---
 ### What is my biggest strength?
