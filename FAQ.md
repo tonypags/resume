@@ -10,7 +10,7 @@
 * [Why have I stayed at my current job for so long?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-have-i-stayed-at-my-current-job-for-so-long)
 * [What is my at-work personality like?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-at-work-personality-like)
 * [What type of company am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-company-am-I-looking-for)
-* [Am I willing to relocate for the right opportunity](https://github.com/tonypags/resume/blob/master/FAQ.md#am-I-willing-to-relocate-for-the-right-opportunity)
+* [Am I willing to relocate for the right opportunity?](https://github.com/tonypags/resume/blob/master/FAQ.md#am-I-willing-to-relocate-for-the-right-opportunity)
 * [What is my biggest strength?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-strength)
 * [What is my biggest weakness?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-weakness)
 <!--te-->

@@ -22,7 +22,7 @@
 </br>
 
 ## Code Samples
-- My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/))
+- My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/)
 - My GUI tools module [PsGuiTools](https://github.com/tonypags/PsGuiTools)
 - My misc functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
 
