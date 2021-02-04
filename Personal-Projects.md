@@ -1,4 +1,13 @@
 # Personal Projects - Home Lab
+<!--ts-->
+* [Home Server P2V Migration](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#home-server-p2v-migration)
+* [Environment Operational Hardening](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#environment-operational-hardening)
+* [Network Monitoring Dashboard	(TIG Stack)](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#network-monitoring-dashboardtig-stack)
+* [Automation Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#automation-upgrade)
+* [Static Website Cloud Migration](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#static-website-cloud-migration)
+* [Hard Drive Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#hard-drive-upgrade)
+* [Roadmap](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap)
+<!--te-->
 
 ## Home Server P2V Migration
 *March-April 2020*
