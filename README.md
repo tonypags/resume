@@ -40,7 +40,7 @@ Also ask me for anonymized versions of some of my private work. </br>
 Check out [the progess I'm making](https://docs.microsoft.com/en-us/users/tony-3972/) towards my Azure certifications over at Microsoft Learn! 
 
 ## Misc Stuff
-[Google](https://www.google.com/search?q=tonypags+powershell) me!
+[Yippy](https://www.yippy.com/search?query=powershell+tonypags) me!
 
-Duck Duck [Go](https://duckduckgo.com/?q=tonypags+powershell&t=h_&ia=web) me!
+[Google](https://www.google.com/search?q=tonypags+powershell) me!
 </br>
