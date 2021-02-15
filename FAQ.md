@@ -55,15 +55,6 @@ I'm friendly and enjoy discussing the day's challenges with my colleagues. I ten
 One with a clear vision, and who reward teams, not just individuals. I prefer to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
 
 ---
-### Am I willing to relocate for the right opportunity?
-I would consider it proportionally to the number of boxes you check:  
-💻 I would need to start remotely. 
-🏖 It would need to be no more than 2 hours from a coastline. 
-👩‍🏫 My residence should be 30 minutes from an elementary school. 
-🕣 I would also need to live within 30 minutes of the office (or an hour if remote 3 days a week). 
-🌃 I would like to reside in a small, medium, or large city. 
-
----
 ### What is my biggest strength?
 My ability to tune into someone's frustration, and to help them get to the root of it, regardless of their level of technical savvy. Also my vulnerability: I'm not afraid to say "I don't know" or ask for help. I've learned that asking for help builds trust and strengthens relationships. 
 
@@ -72,3 +63,13 @@ My ability to tune into someone's frustration, and to help them get to the root 
 I tend to hold myself to a high standard, which can cause frustration because colleagues might find that level of satisfaction more quickly. What I found is that with some self-awareness and good communication, I can smooth that over, and it never really ends up being a problem. 
 
 ---
+### Am I willing to relocate for the right opportunity?
+I would consider it proportionally to the number of boxes you check: 
+<br>💻 I would need to start remotely, and be fully remote for up to 1 year. 
+<br>🏖 My office would need to be no more than 2 hours from a coastline. 
+<br>👩‍🏫 My residence should be 30 minutes from an elementary school. 
+<br>🕣 I would also need to live within 30 minutes of the office (or an hour if remote 3 days a week). 
+<br>🌃 I would like to reside in a small, medium, or large city. 
+
+---
+
