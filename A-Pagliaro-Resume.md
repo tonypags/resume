@@ -12,11 +12,11 @@ Brooklyn, NY
 
 <br>
 
-**Professional Overview:** Self-motivated and highly skilled Windows Desktop and Server Engineer with extensive
+**Professional Overview:** Self-motivated and highly skilled Windows Desktop and Server Administrator with extensive
 automation skills. Adept at building proprietary technology tools to streamline workflows and build customized,
 middle-ware solutions for complex client environments. Improve productivity, integrate platforms, develop and
-deploy production monitoring and telemetry. Effective at reducing risk of changes with thorough methods of
-procedure (MOPs), and providing superior communication.
+deploy production software and monitoring. Effective at reducing risk of changes with thorough methods of
+procedure (MOPs), and providing superior communication to stakeholders with attention to detail.
 
 <br>
 
@@ -36,7 +36,8 @@ DNS, DHCP.
 ## Accomplishments
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
-* Developed a script which gathers information on new Active Directory users from distributed networks across 200+ domains, which generated new business revenue of $80-100k per month.
+* Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
+* Engineered workaround for RMM agent ID sharing bug, ensuring personally identifyable information is kept private.
 * Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups. 
 * Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform. 
 * Developed script which monitors OneDrive Sync and alerts on failure providing user and path.
@@ -111,7 +112,7 @@ High-end residential architecture firm hired to assist IT Director.
 B.S. in Mechanical Engineering with a Concentration in Acoustics 2000 – 2003
 <br>Minor: Mathematics
 <br>Status: Graduated with Honors, May 2003
-<br>GPA: 3.5 / 4.
+<br>GPA: 3.5 / 4.0
 
 <br>
 
