@@ -37,7 +37,7 @@ DNS, DHCP.
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
-* Engineered workaround for RMM agent ID sharing bug, ensuring personally identifyable information is kept private.
+* Engineered workaround for RMM agent ID sharing bug, ensuring personally identifiable information is kept private.
 * Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups. 
 * Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform. 
 * Developed script which monitors OneDrive Sync and alerts on failure providing user and path.
