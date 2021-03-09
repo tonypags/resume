@@ -40,11 +40,11 @@ There should be more training on company procedures, especially when changes hap
 
 ---
 ### Why do I want to leave my current job?
-I'm looking for a new, creative challenge and I haven't been able to find one where I am.
+I'm looking for a new, creative challenge to focus on, and I haven't been able to find one where I am.
 
 ---
 ### Why have I stayed at my current job for so long?
-There were a lot of opportunities and I was on two different teams. I aim to stay at my next company as long or longer. We survive because we adapt. Let's adapt together! 🤝
+There were a lot of opportunities and I had different roles every couple of years. I aim to stay at my next company as long or longer. We survive because we adapt. Let's adapt together! 🤝
 
 ---
 ### What is my at-work personality like?
@@ -60,7 +60,7 @@ My ability to tune into someone's frustration, and to help them get to the root 
 
 ---
 ### What is my biggest weakness?
-I tend to hold myself to a high standard, which can cause frustration because colleagues might find that level of satisfaction more quickly. What I found is that with some self-awareness and good communication, I can smooth that over, and it never really ends up being a problem. 
+I tend to hold myself to a high standard, which can cause frustration because colleagues might find that level of satisfaction more quickly. What I found is that with some self-awareness and good communication, I can smooth that over, and it never really ends up being a problem. One trick that works well is to ask questions instead of giving critiques. 
 
 ---
 ### Am I willing to relocate for the right opportunity?
@@ -70,6 +70,7 @@ I would consider it proportionally to the number of boxes you check:
 <br>👩‍🏫 My residence should be 30 minutes from an elementary school. 
 <br>🕣 I would also need to live within 30 minutes of the office (or an hour if remote 3 days a week). 
 <br>🌃 I would like to reside in a small, medium, or large city. 
+<br>🚃 Bonus points for areas with good public transit and walkability.
 
 ---
 
