@@ -4,6 +4,30 @@ Read what Tony's <b>managers</b> have said about him recently.
 <i>quoted from actual, internal review records</i>
 
 ---
+“As Team Lead, Tony has the technical skills and experience with all aspects of the Automate department. He is also a sounding board for issues and expertise to the team.”
+
+---
+“Tony is very professional in his manner in which he communicates both internally and externally to clients.”
+
+---
+“Tony is very proficient and keeping work and tasks documented. I will be working with him and the rest of the team to be able to report and measure on workloads, timelines and deliverables to upper management. Tony will be a valued resource in assisting in this endeavor.”
+
+---
+“In my limited time here, Tony has stood out as someone who can manage priorities and commitments.”
+
+---
+“Tony has always had a level head in discussions we've had with the team, and let the other members speak their mind even if Tony doesn't agree with them.”
+
+---
+“Tony and the Automation team as a whole has been an advocate of change. There are sometimes obstacles that hinder that, and I have observed Tony working to overcome them.”
+
+---
+“I have observed Tony's ability to have an ever-growing organic nature to the documentation he provides. It's always changing to the work and procedures in place.”
+
+---
+“Tony is extremely disciplined in his approach and this pays off for the clients. He remembers when to follow up and will hound an issue relentlessly until he gets a response. Tony sets an excellent example for the team in this regard as he holds them all to the same standard that he holds himself.” 
+
+---
 “Tony is extremely disciplined in his approach and this pays off for the clients. He remembers when to follow up and will hound an issue relentlessly until he gets a response. Tony sets an excellent example for the team in this regard as he holds them all to the same standard that he holds himself.” 
 
 ---
