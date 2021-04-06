@@ -8,7 +8,7 @@ Brooklyn, NY
 
 [linkedin.com/in/tony-pagliaro-a2923337](https://www.linkedin.com/in/tony-pagliaro-a2923337/) (LinkedIn Profile)
 
-[https://docs.microsoft.com/en-us/users/tony-3972](https://docs.microsoft.com/en-us/users/tony-3972) (Azure Certification Progress)
+[https://www.credly.com/users/tony-pagliaro/badges](https://www.credly.com/users/tony-pagliaro/badges) (Azure Certification)
 
 <br>
 
