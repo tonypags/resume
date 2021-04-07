@@ -2,13 +2,13 @@
 
 Brooklyn, NY
 
-[tonyp@pagliaro.co](mailto:tony@pagliaro.co​) (Email)
+[tony@pagliaro.co](mailto:tony@pagliaro.co) (Email)
 
 [github.com/tonypags](https://github.com/tonypags) (Code Samples)
 
 [linkedin.com/in/tony-pagliaro-a2923337](https://www.linkedin.com/in/tony-pagliaro-a2923337/) (LinkedIn Profile)
 
-[https://www.credly.com/users/tony-pagliaro/badges](https://www.credly.com/users/tony-pagliaro/badges) (Azure Certification)
+[credly.com/users/tony-pagliaro/badges](https://www.credly.com/users/tony-pagliaro/badges) (Azure Certification)
 
 <br>
 
@@ -36,7 +36,9 @@ DNS, DHCP.
 ## Accomplishments
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
+* Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available. 
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
+* Automated weekly operations workflows and quality checks to create more time on our team for project work. 
 * Engineered workaround for RMM agent ID sharing bug, ensuring personally identifiable information is kept private.
 * Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups. 
 * Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform. 
@@ -57,10 +59,10 @@ including reporting, deployments, remediations, and configurations.
 * Transform operational workflows into code, presenting bespoke automated emails with HTML elements.
 * Design procedures and automated solutions for Quality Assurance of configurations and deliveries.
 * Subject Matter Expert on PowerShell, collaborate with DevOps Engineer and others on best practices,
-syntax, logic, pipelines, modular function design, including PowerShell Desired State Configuration.
+syntax, logic, pipelines, modular function design, including Azure and PowerShell Desired State Configuration.
 * Deploy custom data collection and aggregation across disparate networks and systems.
 * Design service agent repair solutions based on system metrics and logs parsed into machine-readable data.
-* Spearhead design of software deployment procedure and templates.
+* Spearhead design of scalable software deployment procedures and templates.
 
 
 **Applications Systems Administrator** April 2015 – June 2018
