@@ -32,7 +32,7 @@ Also ask me for anonymized versions of some of my private work. </br>
 </br>
 
 ## LinkedIn Profile
-[![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1620864000&v=beta&t=uiH4C4JKabdHqmN3yvG5Zsy0H_nX_0fiiMgftWfULBc)](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
+[![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1628121600&v=beta&t=HEr8KrPPpFOXVgTJ278sAwLSV2599eaUGgVGV5ah-S0)](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
 </br>
 ⤴️ click me.</br>
 </br>
