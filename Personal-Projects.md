@@ -57,6 +57,7 @@
 
 # Roadmap
 *After finishing job search*
+- VPN replaces port-forwarding for external access to services.
 - Symlink remaining systems config files, and Controller archives. 
 - Re-organize Ansible playbooks into roles. 
 - Manage iptables configs with Ansible.
