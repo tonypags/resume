@@ -24,6 +24,7 @@
 ## Code Samples
 - My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/) (geeky manipulation)
 - My GUI tools module [PsGuiTools](https://github.com/tonypags/PsGuiTools) (add popup UI to your user scripts)
+- Software [uninstaller for Cylance AV](https://github.com/tonypags/resume/blob/master/code-samples/Get-CylanceUninstallString.ps1) (Selects command based on local package)
 - MS365 C2R Version QA [PsClickToRunTools](https://github.com/RFAInc/PsClickToRunTools) (easy print out: [PSM1](https://github.com/RFAInc/PsClickToRunTools/blob/main/PsClickToRunTools.psm1) file)
 - My misc functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
 
