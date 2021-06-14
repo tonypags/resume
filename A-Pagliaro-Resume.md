@@ -34,6 +34,7 @@ DNS, DHCP.
 <br>
 
 ## Accomplishments
+* Took on ownership of previous developer's codebase and task enviroment to provide immidiate bug fixes, feature requests, change support, and spearhead an environment migration initiative. 
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
 * Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available. 
@@ -48,10 +49,22 @@ DNS, DHCP.
 <br>
 
 ## Work History:
+### National Football League (NFL) for JDA TSG - New York, NY
+Professional American football league with several dozen stadiums and clubhouses nationwide.
+
+**DevOps Engineer** May 2021 - Present
+* Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
+* Authoring functional modules for migration from existing script codebase. 
+* Advancing use of development environment and version control. 
+* Participating in change approval board and code reviews. 
+* Streamlining test procedures for production scripts. 
+
+<br>
+
 ### Richard Fleischman and Associates, Inc. - New York, NY
 Mid-size MSP with a private data center based in NY, with offices and colocations globally.
 
-**Senior Automation Engineer** July 2018 – Present
+**Senior Automation Engineer** July 2018 – May 2021
 * Maintain infrastructure of remote access (ScreenConnect) and management (Solarwinds and LabTech)
 platforms.
 * Design and maintain custom PowerShell codebase and design solutions for internal and external stakeholders
