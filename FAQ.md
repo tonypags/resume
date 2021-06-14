@@ -1,15 +1,16 @@
 # FAQ
-
-<!--ts-->
-* [Tell me about yourself?](https://github.com/tonypags/resume/blob/master/FAQ.md#tell-me-about-yourself)
-* [What is my work experience?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-work-experience)
+<!--
 * [What is a challenge I am seeking?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-a-challenge-I-am-seeking)
 * [What do I like most about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-most-about-my-current-job)
 * [What do I like least about my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-do-I-like-least-about-my-current-job)
 * [Why do I want to leave my current job?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-do-I-want-to-leave-my-current-job)
 * [Why have I stayed at my current job for so long?](https://github.com/tonypags/resume/blob/master/FAQ.md#why-have-i-stayed-at-my-current-job-for-so-long)
+* [What type of company am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-company-am-I-looking-for) 
+--> 
+<!--ts-->
+* [Tell me about yourself?](https://github.com/tonypags/resume/blob/master/FAQ.md#tell-me-about-yourself)
+* [What is my work experience?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-work-experience)
 * [What is my at-work personality like?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-at-work-personality-like)
-* [What type of company am I looking for?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-type-of-company-am-I-looking-for)
 * [Am I willing to relocate for the right opportunity?](https://github.com/tonypags/resume/blob/master/FAQ.md#am-I-willing-to-relocate-for-the-right-opportunity)
 * [What is my biggest strength?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-strength)
 * [What is my biggest weakness?](https://github.com/tonypags/resume/blob/master/FAQ.md#what-is-my-biggest-weakness)
@@ -22,8 +23,8 @@ I've written this FAQ to showcase an aptitude for forward-thinking solutions, an
 
 ---
 ### What is my work experience?
-I have 6 years experience using PowerShell to accelerate my workflows, and produce business assets for internal and external consumption, including post-provisioning: software, configurations, mitigations, reporting, and quality assurance. This recent experience sits on top of over 10 years of end-user support, which yields a proven set of organizational, analytical, and problem-solving capabilities.
-
+I have 6 years experience using PowerShell to accelerate my workflows, and produce business assets for internal and external consumption, including post-provisioning: software, configurations, mitigations, reporting, and quality assurance. This recent experience sits on top of over 10 years of end-user support, which yields a proven set of organizational, analytical, and problem-solving capabilities. 
+<!--
 ---
 ### What is a challenge I am seeking?
 I like solving problems, specifically pattern recognition and optimization. Like a lot of automation-minded geeks, I tend to apply myself toward a more efficient state. 
@@ -47,12 +48,12 @@ I'm looking for a new, creative challenge to focus on, and I haven't been able t
 There were a lot of opportunities and I had different roles every couple of years. I aim to stay at my next company as long or longer. We survive because we adapt. Let's adapt together! 🤝
 
 ---
-### What is my at-work personality like?
-I'm friendly and enjoy discussing the day's challenges with my colleagues. I tend to be a nose to the grindstone type of person, and I need a few different tasks to keep myself fresh and focused. I enjoy taking walks to clear my mind. 
-
----
 ### What type of company am I looking for?
 One with a clear vision, and who reward teams, not just individuals. I prefer to be on a team and have a leader that respects my talents and shortcomings, assigns me appropriately, and who keeps challenging me. 
+-->
+---
+### What is my at-work personality like?
+I'm friendly and enjoy discussing the day's challenges with my colleagues. I tend to be a nose to the grindstone type of person, and I need a few different tasks to keep myself fresh and focused. I enjoy taking walks to clear my mind. 
 
 ---
 ### What is my biggest strength?
@@ -73,4 +74,5 @@ I would consider it proportionally to the number of boxes you check:
 <br>🚃 Bonus points for areas with good public transit and walkability.
 
 ---
+<!-- note here -->
 
