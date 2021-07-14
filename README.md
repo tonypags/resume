@@ -39,7 +39,7 @@ Also ask me for anonymized versions of some of my private work. </br>
 </br>
 
 ## Azure Certification
-Check out [the progess I'm making](https://docs.microsoft.com/en-us/users/tony-3972/) towards my Azure certifications over at Microsoft Learn! 
+Check out [the progess I'm making](https://docs.microsoft.com/en-us/users/tony-3972/) towards my [Azure certifications](https://www.credly.com/badges/caa91913-fcea-444f-8280-971a4ae20031/public_url) over at Microsoft Learn and Credly! 
 
 ## Misc Stuff
 [Google](https://www.google.com/search?q=tonypags+powershell) me!
