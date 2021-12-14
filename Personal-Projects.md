@@ -56,10 +56,12 @@
 - Zeroed out old drives (2x8TB, about 2 days; 2x6TB, about 2 days)
 
 # Roadmap
-*After finishing job search*
+- Symlink remaining systems config files and Controller archives for backup.
 - VPN replaces port-forwarding for external access to services.
-- Symlink remaining systems config files, and Controller archives. 
-- Re-organize Ansible playbooks into roles. 
+- Add SSL record for all web services.
+- Implement reverse proxy for hosted web services.
+- Deploy remoe access solution (Guacamole).
+- Re-organize Ansible playbooks into roles.
 - Manage iptables configs with Ansible.
 - Add Ansible roles for DNS and DHCP config.
 - Add a new guest to VMWare using Terraform.
