@@ -31,7 +31,7 @@ Read what Tony's <b>managers</b> have said about him recently.
 
 ## About his Working Relationships
 
-“As Team Lead, Tony has the technical skills and experience with all aspects of the Automate department. He is also a sounding board for issues and expertise to the team.”
+“As Team Lead, Tony has the technical skills and experience with all aspects of the Automation department. He is also a sounding board for issues and expertise to the team.”
 
 “Tony has always had a level head in discussions we've had with the team, and let the other members speak their mind even if Tony doesn't agree with them.”
 
