@@ -34,8 +34,9 @@ DNS, DHCP.
 <br>
 
 ## Accomplishments
-* Took on ownership of previous developer's codebase and task enviroment to provide immidiate bug fixes, feature requests, change support, and spearhead an environment migration initiative. 
+* Took on ownership of previous developer's codebase and task enviroment to provide immidiate bug fixes, feature requests, change support, and spearhead an environment migration initiative.
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
+* Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progess on an internal website linked in a daily status email. 
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
 * Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available. 
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
