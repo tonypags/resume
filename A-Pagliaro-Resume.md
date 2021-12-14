@@ -24,7 +24,7 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 **Platforms**: CW Automate fka LabTech, Solarwinds N-Central, Logic Monitor, Jira, Confluence, Chocolatey,
 PowerShell DSC, GitHub, OPSGenie, UniFi.
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Selenium.
-<br>**Languages**: PowerShell, SQL, Python 3, Batch, API, XML, JSON, bash, MS Flow, HTML, AHK.
+<br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
 <br>**OSes**: Windows, Apple OS X, VMWare ESXi, Linux (Debian, CentOS), Unix.
 <br>**Microsoft**: ACL, Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS,
 DNS, DHCP.
@@ -44,7 +44,7 @@ DNS, DHCP.
 * Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups. 
 * Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform. 
 * Developed script which monitors OneDrive Sync and alerts on failure providing user and path.
-* Team leader of the department with revenue measured in millions.
+* Team leader of a department with revenue measured in millions.
 
 <br>
 
@@ -56,6 +56,7 @@ Professional American football league with several dozen stadiums and clubhouses
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
 * Authoring functional modules for migration from existing script codebase. 
 * Advancing use of development environment and version control. 
+* Maturing task execution environment by researching vendor platforms for robustness and usability.
 * Participating in change approval board and code reviews. 
 * Streamlining test procedures for production scripts. 
 
