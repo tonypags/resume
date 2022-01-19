@@ -32,17 +32,19 @@ Also ask me for anonymized versions of some of my private work. </br>
 </br>
 </br>
 
-## LinkedIn Profile
-[![](https://media-exp1.licdn.com/dms/image/C5603AQGCpTjho5JrDg/profile-displayphoto-shrink_200_200/0/1516656396060?e=1628121600&v=beta&t=HEr8KrPPpFOXVgTJ278sAwLSV2599eaUGgVGV5ah-S0)](https://www.linkedin.com/in/tony-pagliaro-a2923337/).
-</br>
-⤴️ click me.</br>
-</br>
-
 ## Azure Certification
 Check out [the progess I'm making](https://docs.microsoft.com/en-us/users/tony-3972/) towards my [Azure certifications](https://www.credly.com/badges/caa91913-fcea-444f-8280-971a4ae20031/public_url) over at Microsoft Learn and Credly! 
+</br>
+</br>
 
-## Misc Stuff
+## Social
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/tony-pagliaro-a2923337)
+[![Reddit](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Reddit)](https://www.reddit.com/user/Hoping_i_Get_poached)
+[![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A)
+</br>
+
 [Google](https://www.google.com/search?q=tonypags+powershell) me!
+</br>
 
 [DuckDuckGo](https://duckduckgo.com/?q=powershell+tonypags&ia=web) me!
 </br>
