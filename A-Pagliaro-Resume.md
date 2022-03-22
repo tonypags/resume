@@ -21,15 +21,12 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 <br>
 
 ## Technical Skills
-**Platforms**: CW Automate fka LabTech, Solarwinds N-Central, Logic Monitor, Jira, Confluence, Chocolatey,
-PowerShell DSC, GitHub, OPSGenie, UniFi.
+**Platforms**: CW Automate fka LabTech, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Jira, Confluence, Chocolatey, GitHub, OPSGenie, UniFi.
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Selenium.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
 <br>**OSes**: Windows, Apple OS X, VMWare ESXi, Linux (Debian, CentOS), Unix.
-<br>**Microsoft**: ACL, Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS,
-DNS, DHCP.
-<br>**Linux**: Bind DNS, ISC DHCP, PowerShell Core, ACL, OpenVPN, IPTables, TIG Stack
-(Telegraf/Influx/Grafana), Ansible, NFS, Samba, Cron, firewalld, ZFS, Apache.
+<br>**Microsoft**: ACL, Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, DNS, DHCP.
+<br>**Linux**: Bind DNS, ISC DHCP, PowerShell Core, ACL, OpenVPN, IPTables, TIG Stack (Telegraf/Influx/Grafana), Ansible, NFS, Samba, Cron, firewalld, ZFS, Apache.
 
 <br>
 
@@ -55,11 +52,14 @@ Professional American football league with several dozen stadiums and clubhouses
 
 **DevOps Engineer** May 2021 - Present
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
-* Authoring functional modules for migration from existing script codebase. 
 * Advancing use of development environment and version control. 
-* Maturing task execution environment by researching vendor platforms for robustness and usability.
-* Participating in change approval board and code reviews. 
+* Authoring functional modules for migration from existing, unstructured script codebase. 
+* Overseeing all team projects to advance automation for IT Operations. 
+   * Automatically provision new servers based on existing ServiceNow change request form.
+   * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
+   * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
 * Streamlining test procedures for production scripts. 
+* Participating in change approval board and code reviews. 
 
 <br>
 
