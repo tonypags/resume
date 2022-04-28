@@ -52,14 +52,17 @@ Professional American football league with several dozen stadiums and clubhouses
 
 **DevOps Engineer** May 2021 - Present
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
-* Advancing use of development environment and version control. 
-* Authoring functional modules for migration from existing, unstructured script codebase. 
+* Advancing use of development environment and version control.
+* Authoring functional modules for migration from existing, unstructured script codebase.
 * Overseeing all team projects to advance automation for IT Operations. 
    * Automatically provision new servers based on existing ServiceNow change request form.
    * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
 * Streamlining test procedures for production scripts. 
-* Participating in change approval board and code reviews. 
+* Participating in code reviews. 
+* Implementing new dashboard platform for IT admins and managers.
+* Designed database QA solution, collaborated with external team
+* Streamlined active codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
 
 <br>
 
