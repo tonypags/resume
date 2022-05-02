@@ -35,6 +35,7 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
 * Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progess on an internal website linked in a daily status email. 
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
+* Streamlined legacy codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
 * Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available. 
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
 * Automated weekly operations workflows and quality checks to create more time on our team for project work. 
@@ -48,7 +49,7 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 
 ## Work History:
 ### National Football League (NFL) for JDA TSG - New York, NY
-Professional American football league with several dozen stadiums and clubhouses nationwide.
+Professional American football league with several dozen stadiums and offices nationwide.
 
 **DevOps Engineer** May 2021 - Present
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
@@ -58,11 +59,10 @@ Professional American football league with several dozen stadiums and clubhouses
    * Automatically provision new servers based on existing ServiceNow change request form.
    * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
+* Implementing new dashboard platform for IT admins and managers.
+* Designed database QA solution, collaborated with statistics team
 * Streamlining test procedures for production scripts. 
 * Participating in code reviews. 
-* Implementing new dashboard platform for IT admins and managers.
-* Designed database QA solution, collaborated with external team
-* Streamlined active codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
 
 <br>
 
