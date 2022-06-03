@@ -70,10 +70,12 @@ Can't wait for more!
 
 # Roadmap
 *In Order of Feasibility*
+- Backup Telegraf configs (purge all comments)
 - Apply backup target retention policy/script with configs tracked in Ansible.
-- Rebuild CentOS hosts on Ubuntu using Ansible
 - Back up my Plex database: must stop and restart service.
+- Finish Jenkins role (configs)
 - Make an Accounts role for Ansible, for all hosts (better than lost excel sheet)
+- Rebuild CentOS hosts on Ubuntu using Ansible
 - Implement NGINX reverse proxy for hosted web services.
 - Add SSL record for all web services.
 - VPN replaces port-forwarding for external access to services.
