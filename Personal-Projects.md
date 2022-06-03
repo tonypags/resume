@@ -55,13 +55,30 @@
 - Replaced disks in ZFS array (5TB, about 5 days)
 - Zeroed out old drives (2x8TB, about 2 days; 2x6TB, about 2 days)
 
-# Roadmap
-- Symlink remaining systems config files and Controller archives for backup.
-- VPN replaces port-forwarding for external access to services.
-- Add SSL record for all web services.
-- Implement reverse proxy for hosted web services.
-- Deploy remoe access solution (Guacamole).
-- Re-organize Ansible playbooks into roles.
-- Manage iptables configs with Ansible.
+## Ansible Hot Streak
+*June 2022*
+- Created a backup role for Ansible to centrally manage selections and configs.
+- Replaced Symlink solution with rsync scripts updated by Ansible.
 - Add Ansible roles for DNS and DHCP config.
-- Add a new guest to VMWare using Terraform.
+- Added UniFi USG Controller archives to backup.
+- Started reorganizing logic into roles, playbooks into common folder tree.
+- Prioritizing 3 CentOS hosts for rebuild, once Ansible roles are ready and tested.
+
+<br>
+Can't wait for more!
+<br>
+
+# Roadmap
+*In Order of Feasibility*
+- Apply backup target retention policy/script with configs tracked in Ansible.
+- Rebuild CentOS hosts on Ubuntu using Ansible
+- Back up my Plex database: must stop and restart service.
+- Make an Accounts role for Ansible, for all hosts (better than lost excel sheet)
+- Implement NGINX reverse proxy for hosted web services.
+- Add SSL record for all web services.
+- VPN replaces port-forwarding for external access to services.
+- Find an RSS Reader I can self-host, with a mobile app, and build it.
+- Deploy remote access solution (Guacamole).
+- Add a new guest to VMWare using Terraform. -- OH NO, ESXi-only not supported :(
+- Manage iptables configs with Ansible.
+- Build a copy of Concierge to Azure Portal using Terraform
