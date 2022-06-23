@@ -6,6 +6,7 @@
 * [Automation Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#automation-upgrade)
 * [Static Website Cloud Migration](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#static-website-cloud-migration)
 * [Hard Drive Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#hard-drive-upgrade)
+* [Ansible Hot Streak](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#ansible-hot-streak)
 * [Roadmap](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap)
 <!--te-->
 
@@ -59,10 +60,15 @@
 *June 2022*
 - Created a backup role for Ansible to centrally manage selections and configs.
 - Replaced Symlink solution with rsync scripts updated by Ansible.
+- Execute backup via Jenkins daily.
 - Add Ansible roles for DNS and DHCP config.
 - Added UniFi USG Controller archives to backup.
-- Started reorganizing logic into roles, playbooks into common folder tree.
-- Prioritizing 3 CentOS hosts for rebuild, once Ansible roles are ready and tested.
+- Reorganized all logic into roles, playbooks into common folder tree.
+- Created NTP role and applied to DNS/DHCP Raspberry Pi 2 host.
+- Created Ansible and Jenkins roles to rebuild management server.
+- Created Apache role to rebuild web server.
+- Rebuilt 2 of 3 CentOS hosts as Ubuntu 22, using new Ansible roles.
+- Wrote curl-able script for restoring SSH profile to any server via backup for ansible readiness.
 
 <br>
 Can't wait for more!
@@ -70,12 +76,10 @@ Can't wait for more!
 
 # Roadmap
 *In Order of Feasibility*
-- Backup Telegraf configs (purge all comments)
-- Apply backup target retention policy/script with configs tracked in Ansible.
+- Implement archive regimen for backup folders (1 TAR file per day, 7 days; 1 per week, 13 weeks; 1 per quarter, 1 year, 1 per year, 7 years)
 - Back up my Plex database: must stop and restart service.
-- Finish Jenkins role (configs)
 - Make an Accounts role for Ansible, for all hosts (better than lost excel sheet)
-- Rebuild CentOS hosts on Ubuntu using Ansible
+- Rebuild final CentOS PLEX host, migrate to Ubuntu using Ansible
 - Implement NGINX reverse proxy for hosted web services.
 - Add SSL record for all web services.
 - VPN replaces port-forwarding for external access to services.
