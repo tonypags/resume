@@ -21,7 +21,7 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 <br>
 
 ## Technical Skills
-**Platforms**: CW Automate fka LabTech, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Jira, Confluence, Chocolatey, GitHub, OPSGenie, UniFi.
+**Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, CW Automate fka LabTech, Jira, Confluence, Chocolatey, GitHub, OPSGenie, UniFi.
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Selenium.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
 <br>**OSes**: Windows, Apple OS X, VMWare ESXi, Linux (Debian, CentOS), Unix.
@@ -32,16 +32,18 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 
 ## Accomplishments
 * Took on ownership of previous developer's codebase and task enviroment to provide immidiate bug fixes, feature requests, change support, and spearhead an environment migration initiative.
+* Create new API-based solution for ingesting ISP circuit maintenance schedules, replacing legacy solution which used COM and EWS to read emails and parse HTML. 
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
-* Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progess on an internal website linked in a daily status email. 
+* Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progess on an internal website linked in a daily status email.
+* Migrated script tasks from EOL management server to dedicated server, using new least-privilage service accounts and secret retrieval solution.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
 * Streamlined legacy codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
-* Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available. 
+* Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available.
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
-* Automated weekly operations workflows and quality checks to create more time on our team for project work. 
+* Automated weekly operations workflows and quality checks to create more time on our team for project work.
 * Engineered workaround for RMM agent ID sharing bug, ensuring personally identifiable information is kept private.
-* Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups. 
-* Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform. 
+* Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups.
+* Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform.
 * Developed script which monitors OneDrive Sync and alerts on failure providing user and path.
 * Team leader of a department with revenue measured in millions.
 
@@ -49,17 +51,17 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 
 ## Work History:
 ### National Football League (NFL) for JDA TSG - New York, NY
-Professional American football league with several dozen stadiums and offices nationwide.
+Professional American football league with several dozen stadiums and offices nationwide, expanding globally.
 
 **DevOps Engineer** May 2021 - Present
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
-* Advancing use of development environment and version control.
+* Advancing use of test/development environments and version control.
 * Authoring functional modules for migration from existing, unstructured script codebase.
 * Overseeing all team projects to advance automation for IT Operations. 
    * Automatically provision new servers based on existing ServiceNow change request form.
    * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
-* Implementing new dashboard platform for IT admins and managers.
+* Implementing new dashboard platform for IT admins and management.
 * Designed database QA solution, collaborated with statistics team
 * Streamlining test procedures for production scripts. 
 * Participating in code reviews. 
