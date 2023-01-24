@@ -70,6 +70,25 @@
 - Rebuilt 2 of 3 CentOS hosts as Ubuntu 22, using new Ansible roles.
 - Wrote curl-able script for restoring SSH profile to any server via backup for ansible readiness.
 
+## NextCloud & Nginx Deployment
+*August-October 2022*
+- Found an RSS Reader I can self-host, with a mobile app.
+- Build web host (no ansible role yet).
+- Implement NGINX reverse proxy for this and other hosted web services.
+- Unable to use NFS mount as data store -- OH NO!  :(
+- Add SSL Certs with custom domain.
+- Add RSS feeds from old solution.
+- Add wedding photos.
+- Add account for wife.
+
+## UPS Battery Installation
+*January 2023*<br>
+A long time coming, I moved to the suburbs so I need this.
+- Move all hardware onto battery backup, except for modem.
+- Write group of scripts to gracefully shutdown all VMs and hosts.
+Challenges
+- Testing this script.... access to 1 system is stubborn -- I CAN DO IT!  :)
+
 <br>
 Can't wait for more!
 <br>
@@ -80,10 +99,8 @@ Can't wait for more!
 - Back up my Plex database: must stop and restart service.
 - Make an Accounts role for Ansible, for all hosts (better than lost excel sheet)
 - Rebuild final CentOS PLEX host, migrate to Ubuntu using Ansible
-- Implement NGINX reverse proxy for hosted web services.
 - Add SSL record for all web services.
 - VPN replaces port-forwarding for external access to services.
-- Find an RSS Reader I can self-host, with a mobile app, and build it.
 - Deploy remote access solution (Guacamole).
 - Add a new guest to VMWare using Terraform. -- OH NO, ESXi-only not supported :(
 - Manage iptables configs with Ansible.
