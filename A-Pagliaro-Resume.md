@@ -64,6 +64,7 @@ Professional American football league with several dozen stadiums and offices na
 * Implementing new dashboard platform for IT admins and management.
 * Designed database QA solution, collaborated with statistics team
 * Streamlining test procedures for production scripts. 
+* Streamlining user offboarding to reduce manual effort required to discover all resources.
 * Participating in code reviews. 
 
 <br>
