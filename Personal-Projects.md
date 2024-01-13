@@ -100,6 +100,7 @@ A long time coming, I moved to the suburbs so I need this.
 
 ## Network Segmentation Upgrade
 *October-December 2023
+- Create Network Diagram and Planned Segmentations
 - Install new 8-Port PoE switch
 - Install new v6 WAP and Create multiple vAPs
 - Isolate WFH gear
