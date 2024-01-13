@@ -7,6 +7,11 @@
 * [Static Website Cloud Migration](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#static-website-cloud-migration)
 * [Hard Drive Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#hard-drive-upgrade)
 * [Ansible Hot Streak](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#ansible-hot-streak)
+* [NextCloud and Nginx Deployment](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#NextCloud-and-Nginx-Deployment)
+* [UPS Battery Installation](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#UPS-Battery-Installation)
+* [Cloudflare Tunnel Replaces Port Forwarding](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Cloudflare-Tunnel-Replaces-Port-Forwarding)
+* [Network Segmentation Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Network-Segmentation-Upgrade)
+* [Create Accounts Role in Ansible](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Create-Accounts-Role-in-Ansible)
 * [Roadmap](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap)
 <!--te-->
 
@@ -70,7 +75,7 @@
 - Rebuilt 2 of 3 CentOS hosts as Ubuntu 22, using new Ansible roles.
 - Wrote curl-able script for restoring SSH profile to any server via backup for ansible readiness.
 
-## NextCloud & Nginx Deployment
+## NextCloud and Nginx Deployment
 *August-October 2022*
 - Found an RSS Reader I can self-host, with a mobile app.
 - Build web host (no ansible role yet).
@@ -86,8 +91,41 @@
 A long time coming, I moved to the suburbs so I need this.
 - Move all hardware onto battery backup, except for modem.
 - Write group of scripts to gracefully shutdown all VMs and hosts.
-Challenges
-- Testing this script.... access to 1 system is stubborn -- I CAN DO IT!  :)
+
+## Cloudflare Tunnel Replaces Port Forwarding
+*August 2023
+- Install daemon on reverse proxy VM
+- Move DNS Servers from Registrar to Cloudflare
+- Migrate DNS records: A, CNAME, MX, TXT
+
+## Network Segmentation Upgrade
+*October-December 2023
+- Install new 8-Port PoE switch
+- Install new v6 WAP and Create multiple vAPs
+- Isolate WFH gear
+- Isolate Upstairs TV set-top box
+- Isolate downstairs TV set-top box
+- Build new servers, each on Isolated VLAN
+  - Reverse Proxy (migrate Ubuntu to Debian)
+    - Migrate Cloudflare Tunnel configs to new server
+  - Download Daemon (Split out service to dedicated VM)
+    - Set up Firewall Rules using Ansible
+- Create Guest WLAN for house guests
+
+## Create Accounts Role in Ansible
+*January 2024<br>
+Previously maintaining a list of user accounts in a worksheet
+- Define Usernames as dictionary with UID
+  - Groups have same name/GID
+  - Encrypted passwords for admins reference from hosts inventory
+  - Passwords for non-admins encrypted and stored in role vars
+- Define Groups as dictionary with GID
+- Define relationships between hosts, users, and groups
+  - Users listed under each host as needed
+  - Groups listed under Users as needed per host
+  - Other host-specific configs for users: shell, home, etc
+- Write role to collect and deploy Account configs based on inventory_hostname
+
 
 <br>
 Can't wait for more!
@@ -97,11 +135,8 @@ Can't wait for more!
 *In Order of Feasibility*
 - Implement archive regimen for backup folders (1 TAR file per day, 7 days; 1 per week, 13 weeks; 1 per quarter, 1 year, 1 per year, 7 years)
 - Back up my Plex database: must stop and restart service.
-- Make an Accounts role for Ansible, for all hosts (better than lost excel sheet)
-- Rebuild final CentOS PLEX host, migrate to Ubuntu using Ansible
+- Rebuild CentOS PLEX host, migrate to Debian using Ansible
 - Add SSL record for all web services.
-- VPN replaces port-forwarding for external access to services.
 - Deploy remote access solution (Guacamole).
 - Add a new guest to VMWare using Terraform. -- OH NO, ESXi-only not supported :(
-- Manage iptables configs with Ansible.
 - Build a copy of Concierge to Azure Portal using Terraform
