@@ -23,7 +23,7 @@ I've written this FAQ to showcase an aptitude for forward-thinking solutions, an
 
 ---
 ### What is my work experience?
-I have 6 years experience using PowerShell to accelerate my workflows, and produce business assets for internal and external consumption, including post-provisioning: software, configurations, mitigations, reporting, and quality assurance. This recent experience sits on top of over 10 years of end-user support, which yields a proven set of organizational, analytical, and problem-solving capabilities. 
+I have 9 years experience using PowerShell to accelerate my workflows, and produce business assets for internal and external consumption, including post-provisioning: software, configurations, mitigations, reporting, and quality assurance. This recent experience sits on top of over 10 years of end-user support, which yields a proven set of organizational, analytical, and problem-solving capabilities. 
 <!--
 ---
 ### What is a challenge I am seeking?
@@ -69,9 +69,7 @@ I would consider it proportionally to the number of boxes you check:
 <br>💻 I would need to start remotely, and be fully remote for up to 1 year. 
 <br>🏖 My office would need to be no more than 2 hours from a coastline. 
 <br>👩‍🏫 My residence should be 30 minutes from an elementary school. 
-<br>🕣 I would also need to live within 30 minutes of the office (or an hour if remote 3 days a week). 
-<br>🌃 I would like to reside in a small, medium, or large city. 
-<br>🚃 Bonus points for areas with good public transit and walkability.
+<br>🕣 I would also need to live within 30 minutes of the office (or an hour if remote 3 days a week).
 
 ---
 <!-- note here -->
