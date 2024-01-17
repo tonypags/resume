@@ -21,12 +21,12 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 <br>
 
 ## Technical Skills
-**Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, CW Automate fka LabTech, Jira, Confluence, Chocolatey, GitHub, OPSGenie, UniFi.
-<br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Selenium.
+**Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie, UniFi.
+<br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
 <br>**OSes**: Windows, Apple OS X, VMWare ESXi, Linux (Debian, CentOS), Unix.
 <br>**Microsoft**: ACL, Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, DNS, DHCP.
-<br>**Linux**: Bind DNS, ISC DHCP, PowerShell Core, ACL, OpenVPN, IPTables, TIG Stack (Telegraf/Influx/Grafana), Ansible, NFS, Samba, Cron, firewalld, ZFS, Apache.
+<br>**Linux**: Bind DNS, ISC DHCP, PowerShell Core, ACL, OpenVPN, IPTables, UFW, TIG Stack (Telegraf/Influx/Grafana), Ansible, NFS, Samba, Cron, ZFS, Nginx, Apache.
 
 <br>
 
@@ -56,13 +56,16 @@ Professional American football league with several dozen stadiums and offices na
 **DevOps Engineer** May 2021 - Present
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
 * Advancing use of test/development environments and version control.
+* Reauthoring PHP-based website, including modular web form templates, a global navbar, and a fun football theme.
 * Authoring functional modules for migration from existing, unstructured script codebase.
+* Spearheading inventory initative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies. 
 * Overseeing all team projects to advance automation for IT Operations. 
    * Automatically provision new servers based on existing ServiceNow change request form.
    * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
-* Implementing new dashboard platform for IT admins and management.
-* Designed database QA solution, collaborated with statistics team
+* Implementing new dashboard platform for IT admins and management, integrating with team website.
+* Spearheading ServiceNOW knowledge base initiative to add revision history options to UI.
+* Designed database QA solution, collaborated with statistics team.
 * Streamlining test procedures for production scripts. 
 * Streamlining user offboarding to reduce manual effort required to discover all resources.
 * Participating in code reviews. 
