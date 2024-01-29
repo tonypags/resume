@@ -21,7 +21,7 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 <br>
 
 ## Technical Skills
-**Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie, UniFi.
+**Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Jenkins, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie.
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
 <br>**OSes**: Windows, Apple OS X, VMWare ESXi, Linux (Debian, CentOS), Unix.
@@ -31,11 +31,11 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 <br>
 
 ## Accomplishments
-* Took on ownership of previous developer's codebase and task enviroment to provide immidiate bug fixes, feature requests, change support, and spearhead an environment migration initiative.
+* Took on ownership of previous developer's codebase and task environment to provide immediate bug fixes, feature requests, change support, and spearhead an environment migration initiative.
 * Create new API-based solution for ingesting ISP circuit maintenance schedules, replacing legacy solution which used COM and EWS to read emails and parse HTML. 
 * Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
-* Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progess on an internal website linked in a daily status email.
-* Migrated script tasks from EOL management server to dedicated server, using new least-privilage service accounts and secret retrieval solution.
+* Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progress on an internal website linked in a daily status email.
+* Migrated script tasks from EOL management server to dedicated server, using new least-privilege service accounts and secret retrieval solution.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
 * Streamlined legacy codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
 * Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available.
@@ -56,9 +56,9 @@ Professional American football league with several dozen stadiums and offices na
 **DevOps Engineer** May 2021 - Present
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
 * Advancing use of test/development environments and version control.
-* Reauthoring PHP-based website, including modular web form templates, a global navbar, and a fun football theme.
+* Re-authoring PHP-based website, including modular web form templates, a global navbar, and a fun football theme.
 * Authoring functional modules for migration from existing, unstructured script codebase.
-* Spearheading inventory initative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies. 
+* Spearheading inventory initiative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies. 
 * Overseeing all team projects to advance automation for IT Operations. 
    * Automatically provision new servers based on existing ServiceNow change request form.
    * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
@@ -73,13 +73,13 @@ Professional American football league with several dozen stadiums and offices na
 <br>
 
 ### Richard Fleischman and Associates, Inc. - New York, NY
-Mid-size MSP with a private data center based in NY, with offices and colocations globally.
+Mid-size MSP with a private data center based in NY, with offices and co-locations globally.
 
 **Senior Automation Engineer** July 2018 – May 2021
 * Maintain infrastructure of remote access (ScreenConnect) and management (Solarwinds and LabTech)
 platforms.
 * Design and maintain custom PowerShell codebase and design solutions for internal and external stakeholders
-including reporting, deployments, remediations, and configurations.
+including reporting, deployments, remediation, and configurations.
 * Transform operational workflows into code, presenting bespoke automated emails with HTML elements.
 * Design procedures and automated solutions for Quality Assurance of configurations and deliveries.
 * Subject Matter Expert on PowerShell, collaborate with DevOps Engineer and others on best practices,
@@ -104,7 +104,7 @@ syntax, logic, pipelines, modular function design, including Azure and PowerShel
 * Hired to support the newly created office for the investment’s division of a Fortune 200 company.
     * Acted as a liaison between HQ and investment office staff, executives, managers, traders, and vendors.
     * Created procedures for on-boarding c-suite team, directors, managers, staff, and other vendors.
-    * Worked with HQ and/or vendors to coordinate on tele-presence, trading desk telephony, server and
+    * Worked with HQ and/or vendors to coordinate on telepresence, trading desk telephony, server and
 desktop support projects.
     * Authored documents for inventory of computers, printers, phone lines, and server and IT facility
 runbooks.
