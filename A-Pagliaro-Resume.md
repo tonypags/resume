@@ -24,7 +24,7 @@ procedure (MOPs), and providing superior communication to stakeholders with atte
 **Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Jenkins, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie.
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
-<br>**OSes**: Windows, Apple OS X, VMWare ESXi, Linux (Debian, CentOS), Unix.
+<br>**OSes**: Windows, MacOS, Linux (Debian, CentOS), VMWare ESXi, Unix.
 <br>**Microsoft**: ACL, Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, DNS, DHCP.
 <br>**Linux**: Bind DNS, ISC DHCP, PowerShell Core, ACL, OpenVPN, IPTables, UFW, TIG Stack (Telegraf/Influx/Grafana), Ansible, NFS, Samba, Cron, ZFS, Nginx, Apache.
 
