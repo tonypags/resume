@@ -57,11 +57,17 @@ Professional American football league with several dozen stadiums and offices na
 * Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
 * Advancing use of test/development environments and version control.
 * Re-authoring PHP-based website, including modular web form templates, a global navbar, and a fun football theme.
-* Authoring functional modules for migration from existing, unstructured script codebase.
 * Spearheading inventory initiative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies. 
+* Authoring functional modules for migration from existing, unstructured script codebase.
+   * Password manager integration with tools to aid in script development.
+   * Antivirus SaaS solution for endpoint compliance and available versions.
+   * Developer metrics from Git, Azure, and automated job schedules.
 * Overseeing all team projects to advance automation for IT Operations. 
    * Automatically provision new servers based on existing ServiceNow change request form.
-   * Retool several email parser scripts to leverage vendor APIs, inbound and outbound.
+   * Retool several text parser scripts to leverage vendor APIs, inbound and outbound.
+      * ISP circuit maintenance schedules
+      * In-House statistics database
+      * Automated event readiness checks
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
 * Implementing new dashboard platform for IT admins and management, integrating with team website.
 * Spearheading ServiceNOW knowledge base initiative to add revision history options to UI.
