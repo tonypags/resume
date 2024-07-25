@@ -17,6 +17,19 @@ Read what Tony's <b>managers</b> have said about him recently.
 ---
 
 
+## Latest Review
+“Tony consistently adds value as a key contributor, actively identifying and improving operational 
+inefficiencies in areas such as patching. Automation has helped the team maintain a high success 
+rate. He has provided the ability for other teams to utilize our toolsets. Tony’s continual 
+improvement of our old codebase has significantly increased system reliability and performance. 
+Improving our reporting and advancing our automated operations task to include [a new backup vendor's] features, 
+was key goal from last year. Tony promotes learning, [and] offers guidance within the team for admins 
+and engineers alike.” 
+
+
+---
+
+
 ## In General
 
 “Tony has taken a large amount of responsibility and has gone above and beyond on his job requirements.”
