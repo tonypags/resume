@@ -12,6 +12,7 @@
 * [Cloudflare Tunnel Replaces Port Forwarding](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Cloudflare-Tunnel-Replaces-Port-Forwarding)
 * [Network Segmentation Upgrade](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Network-Segmentation-Upgrade)
 * [Create Accounts Role in Ansible](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Create-Accounts-Role-in-Ansible)
+* [Migrate Gmail Workspace to Private Cloud Host](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#Migrate-Gmail-Workspace-to-Private-Cloud-Host)
 * [Roadmap](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap)
 <!--te-->
 
@@ -128,16 +129,54 @@ Previously maintaining a list of user accounts in a worksheet
 - Write role to collect and deploy Account configs based on inventory_hostname
 
 
+## Migrate Gmail Workspace to Private Cloud Host
+*July 2024<br>
+Previous email host for 2 personal mailboxes, one big and one small<br>
+Cutting over requires careful planning and execution
+- DAV
+  - Contacts/Calendar exported from Google
+  - Contacts/Calendar imported to Nextcloud
+  - Set up CardDav/CalDav accounts on smartphone
+  - Repeat steps until it works
+  - Disabled old Contacts/Calendar on smartphone.
+- Acquisitions
+  - New provider, selecting for value and reputation (and entertaining docs!)
+  - New domain name, for future mail-related project
+- Configure and Prepare
+  - Review docs and plan migration (found example case journal)
+  - Add new domain to mail host
+    - Publish MX, assess features
+  - Add 2 alias-only domains
+    - Migrate all aliases to new host
+    - Practice cutting over alias domains' MX
+  - Add main domain to mail host
+    - Create folders mail filters to match Gmail
+    - Add aliases including current small mailbox (will merge with big)
+    - Add folders and filters for other new aliases
+  - Review docs for imapsync
+    - Set up app passwords for API
+    - Write 3 scripts to migrate all mail to larger mailbox, in stages
+    - Test in dry run mode
+- Cut Over
+  - Lower DNS TTL, 2 days before cutover
+  - Sync smaller mailbox using imapsync
+  - Run 1 script per night, while waiting for DNS propagation and Gmail IMAP limits
+  - Cut over main domain's MX
+  - Add new / delete old mail account and delete old Contacts/Calendar from smartphone.
+  - Raise DNS TTL, 1 day after cutover
+  - Delete Gmail (smell ya later!)
+
+
 <br>
 Can't wait for more!
 <br>
 
 # Roadmap
 *In Order of Feasibility*
-- Implement archive regimen for backup folders (1 TAR file per day, 7 days; 1 per week, 13 weeks; 1 per quarter, 1 year, 1 per year, 7 years)
-- Back up my Plex database: must stop and restart service.
+- Keep banking my lab configs in ansible
 - Rebuild CentOS PLEX host, migrate to Debian using Ansible
-- Add SSL record for all web services.
-- Deploy remote access solution (Guacamole).
-- Add a new guest to VMWare using Terraform. -- OH NO, ESXi-only not supported :(
-- Build a copy of Concierge to Azure Portal using Terraform
+- Back up my Plex database: must stop and restart service.
+- Implement archive regimen for backup folders (1 TAR file per day, 7 days; 1 per week, 13 weeks; 1 per quarter, 1 year, 1 per year, 7 years)
+- New compute stack (npu?)
+- New VM Host (proxmox?)
+- New storage (array?)
