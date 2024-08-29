@@ -48,7 +48,7 @@ function Get-CylanceUninstallString {
         $strUninstall = Get-InstalledSoftware |
             Where-Object {$_.Name -like 'Cylance*'} |
             Select-Object -ExpandProperty UninstallCommand
-        if (@($strUninstall).count -gt 1) {
+        if (($strUninstall|Measure-Object).Count -gt 1) {
             Write-Warning "Multiple strings found!"
             Write-Verbose "Proceeding with first item." -Verbose
             $strUninstall = $strUninstall[0]
