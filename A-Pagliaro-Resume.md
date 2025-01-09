@@ -56,11 +56,11 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 Professional American football league with several dozen stadiums and offices nationwide, expanding globally.
 
 **DevOps Engineer** May 2021 - Present
-* Maintaining production PowerShell and SQL scripts used in network monitoring and alert reporting.
+* Designs and maintains production code used in orchestration of systems and process automation, monitoring, and reporting solutions.
 * Advancing use of test/development environments and version control.
-* Re-authoring PHP-based website, including modular web form templates, a global navbar, and a fun football theme.
-* Spearheading inventory initiative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies. 
-* Authoring functional modules for migration from existing, unstructured script codebase.
+* Spearheading inventory initiative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies.
+* Used AI/GPT tools to accellerate development of various solutions having esoteric syntax, without disclosing proprietary information.
+* Authored functional modules for migration from existing, unstructured codebase.
    * Password manager integration with tools to aid in script development.
    * Antivirus SaaS solution for endpoint compliance and available versions.
    * Developer metrics from Git, Azure, and automated job schedules.
@@ -71,6 +71,7 @@ Professional American football league with several dozen stadiums and offices na
       * In-House statistics database
       * Automated event readiness checks
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
+* Designed RSS-based solution for SaaS services outage notifications for executives.
 * Implementing new dashboard platform for IT admins and management, integrating with team website.
 * Spearheading ServiceNOW knowledge base initiative to add revision history options to UI.
 * Designed database QA solution, collaborated with statistics team.
