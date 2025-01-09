@@ -14,8 +14,9 @@ Brooklyn, NY
 
 **Professional Overview:** Self-motivated and highly skilled Automated Solutions Engineer
 with a strong background in IT Operations and a history of modernizing legacy solutions and maintaining proprietary workflows in high-risk environments.
+An outcome-driven, detail-oriented, critical thinker who excels at learning new business and technical functions quickly.
 Adept at building streamlined technology tools and customized, forward-looking, middle-ware solutions for complex environments.
-Improve productivity, integrate platforms, develop and deploy production software, and enable bespoke monitoring with granular requirements.
+Improves productivity, integrates platforms, develops and deploys production software, and enables bespoke monitoring with granular requirements.
 Effective at reducing risk of changes with thorough methods of procedure (MOPs), and providing superior communication to stakeholders with attention to detail.
 
 <br>
@@ -31,16 +32,17 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 <br>
 
 ## Accomplishments
-* Took on ownership of previous developer's codebase and task environment to provide immediate bug fixes, feature requests, change support, and spearhead an environment migration initiative.
-* Create new API-based solution for ingesting ISP circuit maintenance schedules, replacing legacy solution which used COM and EWS to read emails and parse HTML. 
-* Architect and deploy a new Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
-* Designed and coded a utility to report on static DNS configurations, calculated changes based on proprietary rules, made changes while creating an undo script for each endpoint, and visualized progress on an internal website linked in a daily status email.
-* Migrated script tasks from EOL management server to dedicated server, using new least-privilege service accounts and secret retrieval solution.
+* Took ownership of existing codebase and task environment to provide immediate bug fixes, feature requests, change support, and spearhead an environment migration to dedicated infrastructure.
+* Re-authored website in PHP to leverage existing script resources, including modular web form templates, a global navbar, and a fun footbal theme.
+* Created API-based solution for ingesting ISP circuit maintenance schedules, replacing legacy solution which used COM and EWS to read and parse emails.
+* Architect procedure to deploy a Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
+* Designed and coded a utility to report on static DNS configurations, calculate changes based on proprietary rules, made changes maintaining an undo command per endpoint, and visualized progress on an internal website and daily status email.
+* Migrated 200 production jobs to dedicated server, using least-privilege service accounts.
 * Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
 * Streamlined legacy codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
 * Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available.
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
-* Automated weekly operations workflows and quality checks to create more time on our team for project work.
+* Automated weekly operations workflows and quality checks to create more time on our team for project tasks.
 * Engineered workaround for RMM agent ID sharing bug, ensuring personally identifiable information is kept private.
 * Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups.
 * Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform.
