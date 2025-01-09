@@ -12,11 +12,11 @@ Brooklyn, NY
 
 <br>
 
-**Professional Overview:** Self-motivated and highly skilled Windows Desktop and Server Administrator with extensive
-automation skills. Adept at building proprietary technology tools to streamline workflows and build customized,
-middle-ware solutions for complex client environments. Improve productivity, integrate platforms, develop and
-deploy production software and monitoring. Effective at reducing risk of changes with thorough methods of
-procedure (MOPs), and providing superior communication to stakeholders with attention to detail.
+**Professional Overview:** Self-motivated and highly skilled Automated Solutions Engineer
+with a strong background in IT Operations and a history of modernizing legacy solutions and maintaining proprietary workflows in high-risk environments.
+Adept at building streamlined technology tools and customized, forward-looking, middle-ware solutions for complex environments.
+Improve productivity, integrate platforms, develop and deploy production software, and enable bespoke monitoring with granular requirements.
+Effective at reducing risk of changes with thorough methods of procedure (MOPs), and providing superior communication to stakeholders with attention to detail.
 
 <br>
 
