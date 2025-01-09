@@ -21,12 +21,12 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 <br>
 
 ## Technical Skills
-**Platforms**: InfoBlox DNS, Solarwinds N-Central & Orion, Logic Monitor, ServiceNow, Jenkins, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie.
+**Platforms**: Solarwinds N-Central & Orion, Logic Monitor, ServiceNOW, InfoBlox DNS, SharePoint, Exchange, vCenter, Cisco DNAC, Zerto, Rubrik, Druva, NetApp, Jenkins, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie.
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
-<br>**OSes**: Windows, MacOS, Linux (Debian, CentOS), VMWare ESXi, Unix.
-<br>**Microsoft**: ACL, Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, DNS, DHCP.
-<br>**Linux**: Bind DNS, ISC DHCP, PowerShell Core, ACL, OpenVPN, IPTables, UFW, TIG Stack (Telegraf/Influx/Grafana), Ansible, NFS, Samba, Cron, ZFS, Nginx, Apache.
+<br>**OSes**: Windows, MacOS, Linux (Debian, RedHat), VMWare ESXi, Unix.
+<br>**Microsoft**: Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, ACL, DNS, DHCP.
+<br>**Linux**: Ansible, OpenVPN, IPTables, UFW, Prometheus, Telegraf, Influx, Grafana, Bind DNS, ISC DHCP, NFS, Samba, Cron, ZFS, ACL, Nginx, Apache.
 
 <br>
 
