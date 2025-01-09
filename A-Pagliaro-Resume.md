@@ -1,6 +1,5 @@
 # Tony Pagliaro
-
-Brooklyn, NY
+(718) 864-6367
 
 [tony@pagliaro.co](mailto:tony@pagliaro.co) (Email)
 
@@ -59,7 +58,7 @@ Professional American football league with several dozen stadiums and offices na
 * Designs and maintains production code used in orchestration of systems and process automation, monitoring, and reporting solutions.
 * Advancing use of test/development environments and version control.
 * Spearheading inventory initiative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies.
-* Used AI/GPT tools to accellerate development of various solutions having esoteric syntax, without disclosing proprietary information.
+* Used AI/GPT tools to accelerate development of various solutions having esoteric syntax, without disclosing proprietary information.
 * Authored functional modules for migration from existing, unstructured codebase.
    * Password manager integration with tools to aid in script development.
    * Antivirus SaaS solution for endpoint compliance and available versions.
