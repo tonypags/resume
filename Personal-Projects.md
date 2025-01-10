@@ -138,7 +138,6 @@ Cutting over requires careful planning and execution
   - Contacts/Calendar imported to Nextcloud
   - Set up CardDav/CalDav accounts on smartphone
   - Repeat steps until it works
-  - Disabled old Contacts/Calendar on smartphone.
 - Acquisitions
   - New provider, selecting for value and reputation (and entertaining docs!)
   - New domain name, for future mail-related project
@@ -149,7 +148,7 @@ Cutting over requires careful planning and execution
   - Add 2 alias-only domains
     - Migrate all aliases to new host
     - Practice cutting over alias domains' MX
-  - Add main domain to mail host
+  - Add primary domain to mail host
     - Create folders mail filters to match Gmail
     - Add aliases including current small mailbox (will merge with big)
     - Add folders and filters for other new aliases
@@ -160,7 +159,7 @@ Cutting over requires careful planning and execution
 - Cut Over
   - Lower DNS TTL, 2 days before cutover
   - Sync smaller mailbox using imapsync
-  - Run 1 script per night, while waiting for DNS propagation and Gmail IMAP limits
+  - Run 1 script per night, while waiting for DNS propagation and Gmail IMAP bandwidth limits
   - Cut over main domain's MX
   - Add new / delete old mail account and delete old Contacts/Calendar from smartphone.
   - Raise DNS TTL, 1 day after cutover
