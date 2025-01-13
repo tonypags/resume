@@ -25,7 +25,7 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 <br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
 <br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
 <br>**OSes**: Windows, MacOS, Linux (Debian, RedHat), VMWare ESXi, Unix.
-<br>**Microsoft**: Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, ACL, DNS, DHCP.
+<br>**Microsoft**: Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Graph API, Exchange, WinRM, WSUS, ACL, DNS, DHCP.
 <br>**Linux**: Ansible, OpenVPN, IPTables, UFW, Prometheus, Telegraf, Influx, Grafana, Bind DNS, ISC DHCP, NFS, Samba, Cron, ZFS, ACL, Nginx, Apache.
 
 <br>
