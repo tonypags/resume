@@ -37,7 +37,7 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 * Architect procedure to deploy a Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
 * Designed and coded a utility to report on static DNS configurations, calculate changes based on proprietary rules, made changes maintaining an undo command per endpoint, and visualized progress on an internal website and daily status email.
 * Migrated 200 production jobs to dedicated server, using least-privilege service accounts.
-* Developed toolset and scripts to ingest scheduling, contact, and configuration data from CRM, PSA and RMM platforms, automating email reminders and notifications in a scalable way, saving 15-20 man-hours weekly, and adding features for time zone support, and auto-correcting bad data using cross references.
+* Developed toolset and scripts to ingest data from CRM/PSA/RMM platforms, automating email notifications in a scalable way, saving 15-20 man-hours weekly. 
 * Streamlined legacy codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
 * Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available.
 * Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
@@ -57,11 +57,10 @@ Professional American football league with several dozen stadiums and offices na
 **DevOps Engineer** May 2021 - Present
 * Designs and maintains production code used in orchestration of systems and process automation, monitoring, and reporting solutions.
 * Advancing use of test/development environments and version control.
-* Spearheading inventory initiative across several IT teams, helping to create QA routines and actionable reporting for resolving deficiencies.
-* Used AI/GPT tools to accelerate development of various solutions having esoteric syntax, without disclosing proprietary information.
+* Leveraged AI/GPT tools to accelerate development of solutions, without disclosing proprietary information.
 * Authored functional modules for migration from existing, unstructured codebase.
    * Password manager integration with tools to aid in script development.
-   * Antivirus SaaS solution for endpoint compliance and available versions.
+   * Various SaaS solution for endpoint compliance.
    * Developer metrics from Git, Azure, and automated job schedules.
 * Overseeing all team projects to advance automation for IT Operations. 
    * Automatically provision new servers based on existing ServiceNow change request form.
@@ -70,9 +69,8 @@ Professional American football league with several dozen stadiums and offices na
       * In-House statistics database
       * Automated event readiness checks
    * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
-* Designed RSS-based solution for SaaS services outage notifications for executives.
+* Designed solutions for SaaS services outage notifications for executives.
 * Implementing new dashboard platform for IT admins and management, integrating with team website.
-* Spearheading ServiceNOW knowledge base initiative to add revision history options to UI.
 * Designed database QA solution, collaborated with statistics team.
 * Streamlining test procedures for production scripts. 
 * Streamlining user offboarding to reduce manual effort required to discover all resources.
