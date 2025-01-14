@@ -51,7 +51,7 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 <br>
 
 ## Work History:
-### National Football League (NFL) for JDA TSG - New York, NY
+### National Football League (NFL) for JDA TSG - Remote
 Professional American football league with several dozen stadiums and offices nationwide, expanding globally.
 
 **DevOps Engineer** May 2021 - Present
