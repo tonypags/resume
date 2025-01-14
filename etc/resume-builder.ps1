@@ -10,6 +10,8 @@ param(
     $Mode
 )
 
+$workingDIR = $PSScriptRoot
+
 $links = '
 [tony@pagliaro.co](mailto:tony@pagliaro.co) (Email)
 
@@ -25,6 +27,13 @@ $coMap = @{
     RFA = 'Richard Fleischman and Associates, Inc.'
     DCI = 'Domino Computing, Inc.'
     CKP = 'Costas Kondylis & Partners LLP'
+}
+
+$descMap = @{
+    NFL = 'Professional American football league with several dozen stadiums and offices nationwide, expanding globally.'
+    RFA = 'Mid-size MSP with a private data center based in NY, with offices and co-locations globally.'
+    DCI = 'Small MSP supporting clients'' technology in the New York/Tri-state area.'
+    CKP = 'High-end residential architecture firm hired to assist IT Director.'
 }
 
 $configs = Import-Csv 'resume-line-items.csv'
@@ -58,12 +67,12 @@ $skillOrder = @(
 $skillsByType = $techSkills | Group Source
 foreach ($type in $skillOrder) {
     $theseSkills = $skillsByType | ? Name -eq $type
-    $thisStr = ( $theseSkills.Group | Sort {e={$_.Order -as [int]}} | % {$_.Value} ) -join ', '
+    $thisStr = ( $theseSkills.Group | Sort @{e={$_.Order -as [int]};Ascending=$true} | % {$_.Value} ) -join ', '
     $strTechSkills += "**$($Type)**: $($thisStr)`n`n"
 }
 
 foreach ($item in $accomplishments) {
-    $thisAccomp = $accomplishments | % {$_.Value}
+    $thisAccomp = $item.Value
     $strAccomplishments += "* $($thisAccomp)`n"
 }
 
@@ -71,9 +80,12 @@ $workByCompany = $workHistory | Group @{e={$_.Source -replace '~.*$'}} # by comp
 foreach ($comp in $workByCompany) {
     $companyByRoles = $comp.Group | Group Source # by role @ company
     $thisCompName = $coMap."$($comp.Name)"
+    $thisCompDesc = $descMap."$($comp.Name)"
     foreach ($role in $companyByRoles) {
         $thisRole = $role.Name -replace '^.+?~' -replace '~.*$' # role title
         $thisDate = $role.Name -replace '^.+~' # role dates
+        $strWorkHistory += "`n### $($thisCompName)`n"
+        $strWorkHistory += "$($thisCompDesc)`n`n"
         $strWorkHistory += "**$($thisRole)** $($thisDate)`n"
         foreach ($item in $role.Group) {
             $indent = $item.Value.Length - $item.Value.Trim().Length
@@ -97,13 +109,13 @@ Effective at reducing risk of changes with thorough methods of procedure (MOPs),
 '
 $finalMarkdown += '## Technical Skills'
 $finalMarkdown += $strTechSkills
-$finalMarkdown += "`n<br>`n"
+$finalMarkdown += "<br>`n"
 $finalMarkdown += '## Accomplishments'
 $finalMarkdown += $strAccomplishments
-$finalMarkdown += "`n<br>`n"
+$finalMarkdown += "<br>`n"
 $finalMarkdown += '## Work History'
 $finalMarkdown += $strWorkHistory
-$finalMarkdown += "`n<br>`n"
+$finalMarkdown += "<br>`n"
 $finalMarkdown += '## Education'
 $finalMarkdown += '
 ### University of Hartford - West Hartford, CT
@@ -121,4 +133,6 @@ B.S. in Industrial Engineering 1998 – 2000
 
 # Out to file with unique
 $Now = Get-Date
-$finalMarkdown -join "`n" | Out-File "..\results\$($Mode)_$($Now.ToString('yyyy-MM-dd HH:mm:ss.fff')).md"
+$resultsDir = "$($workingDIR)\..\results"
+if(Test-Path -Path $resultsDir){}else{mkdir $resultsDir -Force}
+$finalMarkdown -join "`n" | Out-File "$($resultsDir)\$($Mode)_$($Now.ToString('yyyy-MM-dd HH-mm-ss.fff')).md"
