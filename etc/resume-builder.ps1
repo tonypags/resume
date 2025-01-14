@@ -1,6 +1,6 @@
 # Order,Type,Source,Value,DevOps,PlatformEng,SysEng,
 param(
-    [Parameter(Position=0)]
+    [Parameter(Position=0,Mandatory)]
     [ValidateSet(
         'DevOps',
         'PlatformEng',
@@ -23,10 +23,10 @@ $links = '
 '
 
 $coMap = @{
-    NFL = 'National Football League (NFL) for JDA TSG'
-    RFA = 'Richard Fleischman and Associates, Inc.'
-    DCI = 'Domino Computing, Inc.'
-    CKP = 'Costas Kondylis & Partners LLP'
+    NFL = 'National Football League (NFL) for JDA TSG - Remote'
+    RFA = 'Richard Fleischman and Associates, Inc. - New York, NY'
+    DCI = 'Domino Computing, Inc. - New York, NY'
+    CKP = 'Costas Kondylis & Partners LLP - New York, NY'
 }
 
 $descMap = @{
@@ -36,7 +36,7 @@ $descMap = @{
     CKP = 'High-end residential architecture firm hired to assist IT Director.'
 }
 
-$configs = Import-Csv 'resume-line-items.csv'
+$configs = Import-Csv "$($workingDIR)\resume-line-items.csv"
 
 $selected = $configs | ? $Mode -eq 'YES'
 
@@ -89,8 +89,9 @@ foreach ($comp in $workByCompany) {
         $strWorkHistory += "**$($thisRole)** $($thisDate)`n"
         foreach ($item in $role.Group) {
             $indent = $item.Value.Length - $item.Value.Trim().Length
-            $strWorkHistory += "$(' ' * $indent)* $($item.Value.Trim())`n"
+            $strWorkHistory += "`n$(' ' * $indent)* $($item.Value.Trim())`n"
         }
+        $strWorkHistory += "`n<br>`n"
     }
 }
 
@@ -135,4 +136,10 @@ B.S. in Industrial Engineering 1998 – 2000
 $Now = Get-Date
 $resultsDir = "$($workingDIR)\..\results"
 if(Test-Path -Path $resultsDir){}else{mkdir $resultsDir -Force}
-$finalMarkdown -join "`n" | Out-File "$($resultsDir)\$($Mode)_$($Now.ToString('yyyy-MM-dd HH-mm-ss.fff')).md"
+$mdPath = "$($resultsDir)\$($Mode)_$($Now.ToString('yyyy-MM-dd HH-mm-ss.fff')).md"
+$finalMarkdown -join "`n" | Out-File $mdPath -Encoding 'utf8'
+Get-Item $mdPath
+
+# $docxPath = "$($resultsDir)\A-Pagliaro-Resume_$($Mode).docx"
+# pandoc $mdPath -o $docxPath
+# Get-Item $docxPath
