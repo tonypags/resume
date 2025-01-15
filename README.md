@@ -1,13 +1,13 @@
 # resum&#0233;
-A Windows Automation Engineer for your DevOps team <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png" width="16">
-</br>
-</br>
-
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width="16"> [Click here](https://github.com/tonypags/resume/blob/master/A-Pagliaro-Resume.md) to read my current resume.
+An Automation Engineer for your DevOps team <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png" width="16">
 </br>
 </br>
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png" width="16"> [Click here](https://github.com/tonypags/resume/blob/master/Testimonials.md) to read feedback I received from my superiors.
+</br>
+</br>
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width="16"> [Click here](https://github.com/tonypags/resume/blob/master/A-Pagliaro-Resume.md) to read my full resume.
 </br>
 </br>
 
