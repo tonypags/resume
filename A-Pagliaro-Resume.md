@@ -1,125 +1,88 @@
 # Tony Pagliaro
-(718) 864-6367
+tony@pagliaro.co • (718) 864-6367 • [Online Resume](github.com/tonypags/resume) • [Testimonials](https://github.com/tonypags/resume/blob/master/Testimonials.md)
 
-[tony@pagliaro.co](mailto:tony@pagliaro.co) (Email)
+## Professional Overview:
 
-[github.com/tonypags](https://github.com/tonypags) (Code Samples)
-
-[linkedin.com/in/tony-pagliaro-a2923337](https://www.linkedin.com/in/tony-pagliaro-a2923337/) (LinkedIn Profile)
-
-[credly.com/users/tony-pagliaro/badges](https://www.credly.com/users/tony-pagliaro/badges) (Azure Certification)
-
-<br>
-
-**Professional Overview:** Self-motivated and highly skilled Automated Solutions Engineer
-with a strong background in IT Operations and a history of modernizing legacy solutions and maintaining proprietary workflows in high-risk environments.
-An outcome-driven, detail-oriented, critical thinker who excels at learning new business and technical functions quickly.
-Adept at building streamlined technology tools and customized, forward-looking, middle-ware solutions for complex environments.
-Improves productivity, integrates platforms, develops and deploys production software, and enables bespoke monitoring with granular requirements.
-Effective at reducing risk of changes with thorough methods of procedure (MOPs), and providing superior communication to stakeholders with attention to detail.
-
-<br>
-
-## Technical Skills
-**Platforms**: Solarwinds N-Central & Orion, Logic Monitor, ServiceNOW, InfoBlox DNS, SharePoint, Exchange, vCenter, Cisco DNAC, Zerto, Rubrik, Druva, NetApp, Jenkins, Unifi, CW Automate fka LabTech, Jira, Confluence, Chocolatey, Azure DevOps, GitHub, OPSGenie.
-<br>**Apps**: Excel, VSCode, Git, Kanban, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
-<br>**Languages**: PowerShell, SQL, HTML/PHP/CSS, Python 3, Batch, API, YAML, XML, JSON, bash, MS Flow, AHK.
-<br>**OSes**: Windows, MacOS, Linux (Debian, RedHat), VMWare ESXi, Unix.
-<br>**Microsoft**: Active Directory, Group Policy, Azure AD, InTune, 365 Admin, Graph API, Exchange, WinRM, WSUS, ACL, DNS, DHCP.
-<br>**Linux**: Ansible, OpenVPN, IPTables, UFW, Prometheus, Telegraf, Influx, Grafana, Bind DNS, ISC DHCP, NFS, Samba, Cron, ZFS, ACL, Nginx, Apache.
-
-<br>
+Self-motivated Automation Engineer with a strong IT Operations background. Skilled in modernizing legacy
+solutions and maintaining high-risk proprietary workflows. Quick learner, detail-oriented, and a critical
+thinker. Adept at building streamlined technology tools, custom middleware solutions, enhancing
+productivity, platform integration, software development, deployment, and bespoke monitoring.
 
 ## Accomplishments
-* Took ownership of existing codebase and task environment to provide immediate bug fixes, feature requests, change support, and spearhead an environment migration to dedicated infrastructure.
-* Re-authored website in PHP to leverage existing script resources, including modular web form templates, a global navbar, and a fun footbal theme.
-* Created API-based solution for ingesting ISP circuit maintenance schedules, replacing legacy solution which used COM and EWS to read and parse emails.
-* Architect procedure to deploy a Remote Monitoring and Management solution, requiring migration from existing platform with zero downtime for 200+ global customers with 10,000 endpoints.
-* Designed and coded a utility to report on static DNS configurations, calculate changes based on proprietary rules, made changes maintaining an undo command per endpoint, and visualized progress on an internal website and daily status email.
-* Migrated 200 production jobs to dedicated server, using least-privilege service accounts.
-* Developed toolset and scripts to ingest data from CRM/PSA/RMM platforms, automating email notifications in a scalable way, saving 15-20 man-hours weekly. 
-* Streamlined legacy codebase logic, reducing resource overhead on shared server, eliminating daily reboots.
-* Engineered MS 365 and Windows 10 version QA integrations for RMM using PowerShell and SQL, creating a web scraper for real time version info where no API was available.
-* Developed a script which gathers information on new Active Directory users across 200+ domains, generating new business revenue of $80-100k per month.
-* Automated weekly operations workflows and quality checks to create more time on our team for project tasks.
-* Engineered workaround for RMM agent ID sharing bug, ensuring personally identifiable information is kept private.
-* Designed an automated workflow which ensures given recipients, defined in CRM for subscribed clients, are members of an Active Directory distribution group, and that RMM reports are configured for delivery to those distribution groups.
-* Developed a QA script that collects inventory globally from private cloud VMWare resources and compares against a production management platform.
-* Developed script which monitors OneDrive Sync and alerts on failure providing user and path.
-* Team leader of a department with revenue measured in millions.
-
-<br>
+* Took ownership of existing codebase providing immediate bug fixes and feature requests
+* Re-authored website in PHP to expose coded solutions to admins
+* Provision VMs via event-driven APIs & Azure DevOps pipelines to reduce deployment time by 80%
+* Migrate RMM platform without downtime for 200+ global firms and 10,000 endpoints
+* Automated patching reminders based on PSA contracts and RMM schedules, saving 20hrs weekly
+* Created script to gather new users across 200+ domains, generating $80-100k per month
+* Developed script to safely update DNS lists on 1500 servers saving 65 man-hours.
+* Team leader of a department with revenue measured in millions
 
 ## Work History:
-### National Football League (NFL) for JDA TSG - New York, NY
-Professional American football league with several dozen stadiums and offices nationwide, expanding globally.
+### National Football League (NFL) for JDA TSG - Remote
+_Professional American football league with several dozen stadiums and offices nationwide, expanding globally._
 
 **DevOps Engineer** May 2021 - Present
-* Designs and maintains production code used in orchestration of systems and process automation, monitoring, and reporting solutions.
-* Advancing use of test/development environments and version control.
-* Leveraged AI/GPT tools to accelerate development of solutions, without disclosing proprietary information.
-* Authored functional modules for migration from existing, unstructured codebase.
-   * Password manager integration with tools to aid in script development.
-   * Various SaaS solution for endpoint compliance.
-   * Developer metrics from Git, Azure, and automated job schedules.
-* Overseeing all team projects to advance automation for IT Operations. 
-   * Automatically provision new servers based on existing ServiceNow change request form.
-   * Retool several text parser scripts to leverage vendor APIs, inbound and outbound.
-      * ISP circuit maintenance schedules
-      * In-House statistics database
-      * Automated event readiness checks
-   * Design hybrid infrastructure for modern task execution, web forms, data collection, and reporting.
-* Designed solutions for SaaS services outage notifications for executives.
-* Implementing new dashboard platform for IT admins and management, integrating with team website.
-* Designed database QA solution, collaborated with statistics team.
-* Streamlining test procedures for production scripts. 
-* Streamlining user offboarding to reduce manual effort required to discover all resources.
-* Participating in code reviews. 
+* Designs and maintains production code and test/dev environments used in IT process automation, monitoring, and reporting solutions
+* Leverages AI/GPT tools to accelerate development without sharing proprietary info
+* Migrated 200 legacy scripts to dedicated server, using least-privilege service accounts
+* Authored functional modules for migration from existing, unstructured codebase
+    * Password vault integration
+    * Endpoint protection compliance and available versions
+    * Developer metrics from Azure DevOps, and scheduled tasks
+* Supervised team projects to advance automation for IT Operations
+    * Automatically provision new servers based on existing ServiceNow change request form
+    * Developed event-driven API solution to audit planned ISP outages and alert on conflicts
+    * Rewrite several text parser scripts to leverage APIs, inbound and outbound
+        * ISP circuit maintenance schedules
+        * In-House statistics database
+        * Automated event readiness checks
+    * Design hybrid environment for task execution
+* Designed RSS-based solution for SaaS services outage notifications
+* Developed event-driven API solution to audit planned ISP outages and alert on conflicts
+* Implemented new dashboard platform, integrated with team website
+* Designed modular solution for statistics database post-game sanity checks
+* Streamlined user offboarding tasks to reduce time to discover legacy resources
+* Participates in code reviews
 
 <br>
 
 ### Richard Fleischman and Associates, Inc. - New York, NY
-Mid-size MSP with a private data center based in NY, with offices and co-locations globally.
+_Mid-size MSP with a private data center based in NY, with offices and co-locations globally._
 
 **Senior Automation Engineer** July 2018 – May 2021
-* Maintain infrastructure of remote access (ScreenConnect) and management (Solarwinds and LabTech)
-platforms.
-* Design and maintain custom PowerShell codebase and design solutions for internal and external stakeholders
-including reporting, deployments, remediation, and configurations.
-* Transform operational workflows into code, presenting bespoke automated emails with HTML elements.
-* Design procedures and automated solutions for Quality Assurance of configurations and deliveries.
-* Subject Matter Expert on PowerShell, collaborate with DevOps Engineer and others on best practices,
-syntax, logic, pipelines, modular function design, including Azure and PowerShell Desired State Configuration.
-* Deploy custom data collection and aggregation across disparate networks and systems.
-* Design service agent repair solutions based on system metrics and logs parsed into machine-readable data.
-* Spearhead design of scalable software deployment procedures and templates.
+* Authored PowerShell codebase and designed solutions for internal and external stakeholders including deployments, configurations, monitoring, remediation, and reporting
+* Maintained host systems for remote access and endpoint management platforms
+* As PowerShell SME, collaborated with DevOps Engineer and others on best practices, syntax, logic, pipelines, modular function design methods, including Azure AD and AWS VPC
+* Designed scalable, future-proof software deployment procedures for external clients
+* Transformed operational workflows into code, automating emails with HTML formatting
+* Designed SOPs and QA scripts for configurations and deliveries
+* Deployed custom data collection and aggregation across disparate networks and systems
+* Automated weekly operations workflows and QA checks, creating time for project tasks
+* Engineered workaround for RMM agent ID sharing bug, ensuring PII is kept private
+* Automated AD contact groups from CRM subscriptions for RMM report delivery
 
 
 **Applications Systems Administrator** April 2015 – June 2018
-* Designed management solution for workstation maintenance by leveraging under-utilized features.
-* Built PowerShell solutions for custom interoperability between various platforms:
-    * A scripted solution to aggregate daily backup reports from several different solutions..
-    * An app for non-technical staff that exports custom reports from the Solarwinds database.
-    * Leveraged Selenium for automating a tedious web task, for which no APIs were available.
-* Designed and implemented new policies for client on-/off-boarding, delivery of services.
-* Perform non-intrusive workstation diagnostics using command line interfaces over WinRM/SSH/SSL.
-* Designed operational workflows for internal, day-to-day processes.
-* Championed documentation of workflows to facilitate incremental improvement by automation.
+* Designed scalable solution for workstation maintenance by leveraging under-utilized features
+* Designed and implemented new SOP for client on- and off-boarding, delivery of services
+* Automated aggregation of daily backup reports from several different solutions
+* Designed operational workflows to streamline internal, day-to-day processes
+* Deployed GUI app for non-technical staff that exports custom reports from RMM database
+* Performed non-intrusive workstation diagnostics using command line interfaces over WinRM/SSH
 
 **Senior Field Technician** April 2012 – April 2015
-* Hired to support the newly created office for the investment’s division of a Fortune 200 company.
-    * Acted as a liaison between HQ and investment office staff, executives, managers, traders, and vendors.
-    * Created procedures for on-boarding c-suite team, directors, managers, staff, and other vendors.
-    * Worked with HQ and/or vendors to coordinate on telepresence, trading desk telephony, server and
-desktop support projects.
-    * Authored documents for inventory of computers, printers, phone lines, and server and IT facility
-runbooks.
-* Assigned to other high-value clients after demonstrating excellent client-service aptitude.
+* *Hired to support the newly created office for the investments division of a Fortune 200 company
+    * Technical liaison between RFA HQ, Aflac HQ, and AGI staff and vendors
+    * Created SOP for on-boarding c-suite team, directors, managers, staff, and consultants
+    * Worked with HQ/vendors to coordinate on telepresence and trading desk telephony
+    * Authored runbooks for computers, printers, phone lines, and server room assets
+* Assigned to other high-value clients after demonstrating excellent client-service aptitude
 
 <br>
 
 ### Domino Computing, Inc. - New York, NY
-Small MSP supporting clients’ technology in the New York/Tri-state area.
+_Small MSP supporting clients’ technology in the New York/Tri-state area._
 
 **Senior Engineer/Field Technician** October 2006 – April 2012
 * Handled service escalations, trained and supervised new hires.
@@ -131,7 +94,7 @@ Small MSP supporting clients’ technology in the New York/Tri-state area.
 <br>
 
 ### Costas Kondylis & Partners LLP - New York, NY
-High-end residential architecture firm hired to assist IT Director.
+_High-end residential architecture firm._
 
 **Service Technician** June 2005 – October 2006
 * Maintained Microsoft OS versions, AutoCAD, and large-format printers.
@@ -139,16 +102,41 @@ High-end residential architecture firm hired to assist IT Director.
 
 <br>
 
+---
+References and Recommendations available upon request
+
+Testimonials available online at https://github.com/tonypags/resume/blob/master/Testimonials.md
+
+Personal Projects Ansible/Linux: https://github.com/tonypags/resume/blob/master/Personal-Projects.md
+
+<br>
+
+## Technical Skills
+**Platforms:** Azure DevOps, ServiceNow, Exchange, vCenter, Cisco DNAC, Zerto, Rubrik, Druva, NetApp, Jenkins, Unifi, SolarWinds N-Central & Orion, Logic Monitor, ConnectWise Automate, ScreenConnect, Jira/Agile, Confluence, Chocolatey, GitHub, SharePoint, Opsgenie.
+
+**Apps:** VS Code, Git, Kanban, Excel, Teams, OneDrive, SSH, Visio, Chrome/Dev Tools.
+
+**Languages:** PowerShell, SQL, HTML/PHP/CSS, Python 3, API, YAML, XML, JSON, Power Automate, AHK.
+
+**OSes:** Windows, MacOS, Linux (Debian, RedHat), ESXi, Unix.
+
+**Microsoft:** ADDS, GPOs, Azure AD, InTune, 365 Admin, Exchange, WinRM, WSUS, ACL, DNS, DHCP.
+
+**Linux:** Ansible, Prometheus, Telegraf, Influx, Grafana, Nginx, Apache, OpenVPN, IPTables, UFW, Bind9, ISC, NFS, Samba, Cron, ZFS, ACL.
+
+<br>
+
 ## Education
 ### University of Hartford - West Hartford, CT
-B.S. in Mechanical Engineering with a Concentration in Acoustics 2000 – 2003
-<br>Minor: Mathematics
-<br>Status: Graduated with Honors, May 2003
-<br>GPA: 3.5 / 4.0
+B.S. in Mechanical Engineering with a Concentration in Acoustics
+Minor: Mathematics
+
+Status: Graduated with Honors, May 2003
 
 <br>
 
 ### University of New Haven - West Haven, CT
-B.S. in Industrial Engineering 1998 – 2000
-<br>Status: Transferred
+B.S. in Industrial Engineering
+
+Status: Transferred
 
