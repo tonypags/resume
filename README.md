@@ -22,12 +22,11 @@ An Automation Engineer for your DevOps team <img src="https://github.githubasset
 </br>
 
 ## Code Samples
-- My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/) (geeky manipulation)
+- Function [Samples](https://github.com/tonypags/resume/blob/master/code-samples) (See usage examples, in each file)
+- My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/) (well beyond Get-Date)
 - My GUI tools module [PsGuiTools](https://github.com/tonypags/PsGuiTools) (add popup UI to your user scripts)
-- Software [uninstaller for Cylance AV](https://github.com/tonypags/resume/blob/master/code-samples/Get-CylanceUninstallString.ps1) (Selects command based on local package)
-- My misc functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
+- My misc Windows functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
 
-Also ask me for anonymized versions of some of my private work. </br>
 </br>
 </br>
 
@@ -40,8 +39,9 @@ Check out [the progess I'm making](https://docs.microsoft.com/en-us/users/tony-3
 
 ## Social
 [![LinkedIn](https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca)](https://www.linkedin.com/in/tony-pagliaro-a2923337)
-<a href="https://www.reddit.com/user/Hoping_i_Get_poached"><img alt="Reddit" src="https://styles.redditmedia.com/t5_2sbgm/styles/communityIcon_ujft65fdell21.png?width=256&s=41492bfe9430a888e533a19669ae6468a0b238ae" width="64"></a>
-<a href="https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/320px-YouTube_Logo_2017.svg.png" height="64"></a>
+<a href="https://www.reddit.com/user/Hoping_i_Get_poached"><img alt="Reddit" src="https://redditinc.com/hs-fs/hubfs/Reddit%20Inc/Brand/Reddit_Logo.png?width=600&height=600&name=Reddit_Logo.png" width="64"></a>
+<a href="https://stackoverflow.com/users/13325367/tonypags"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="72"></a>
+<a href="https://www.youtube.com/@tonypags/playlists"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/320px-YouTube_Logo_2017.svg.png" height="64"></a>
 </br>
 
 [Google](https://www.google.com/search?q=tonypags+powershell) me!
