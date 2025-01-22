@@ -12,7 +12,7 @@ Read what Tony's <b>managers</b> have said about him recently.
 
 “Tony is extremely disciplined in his approach and this pays off for the clients. He remembers when to follow up and will hound an issue relentlessly until he gets a response. Tony sets an excellent example for the team in this regard as he holds them all to the same standard that he holds himself.” 
 
-“Tony adapts well to changes in procedure. When the change does not make sense, he is not afraid to let management know. He fights like a pit bull, but he is rarely wrong in his thinking or approach as to what change is most important.” 
+“Tony adapts well to changes in procedure. When the change does not make sense, he is not afraid to let management know ... he is rarely wrong in his thinking or approach as to what change is most important.” 
 
 ---
 
