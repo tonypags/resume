@@ -18,7 +18,7 @@ Learn what Tony has specifically done on his teams to advance automation and Dev
 * Transformed operational workflows into code, automating emails with HTML formatting 
 * Deployed GUI app for non-technical staff that exports custom reports from RMM database 
 * Implemented new dashboard platform, integrated with team website  
-* Automated aggregation of daily backup reports from various solutions 
+* Automated aggregation of daily backup reports from several different platforms
 * Designed scalable, future-proof software deployment procedures for external clients 
 * Automated weekly operations workflows and QA checks, creating more time for projects 
 * Authored functional modules for existing, unstructured codebase, including: 
