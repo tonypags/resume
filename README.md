@@ -1,5 +1,5 @@
 # resum&#0233;
-An Automation Engineer for your DevOps team <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png" width="16">
+A data-hungry Automation Engineer for your DevOps team <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png" width="16">
 </br>
 </br>
 
