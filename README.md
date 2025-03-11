@@ -1,7 +1,4 @@
-# resum&#0233;
-A data-hungry Automation Engineer for your DevOps team <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png" width="16">
-</br>
-</br>
+# r&#0233;sum&#0233;
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png" width="16"> [Click here](https://github.com/tonypags/resume/blob/master/Testimonials.md) to read feedback I received from my superiors.
 </br>
