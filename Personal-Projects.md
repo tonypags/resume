@@ -171,11 +171,13 @@ Can't wait for more!
 <br>
 
 # Roadmap
-*In Order of Feasibility*
-- Keep banking my lab configs in ansible
-- Rebuild CentOS PLEX host, migrate to Debian using Ansible
-- Back up my Plex database: must stop and restart service.
-- Implement archive regimen for backup folders (1 TAR file per day, 7 days; 1 per week, 13 weeks; 1 per quarter, 1 year, 1 per year, 7 years)
-- New compute stack (npu?)
-- New VM Host (proxmox?)
+*In Order of Feasibility* 
 - New storage (array?)
+- New VM Host (proxmox?)
+- New compute stack (npu?)
+<!---
+- Implement archive regimen for backup folders (1 TAR file per day, 7 days; 1 per week, 13 weeks; 1 per quarter, 1 year, 1 per year, 7 years)
+- Keep banking my lab configs in ansible
+- Back up my Plex database: must stop and restart service.
+- Rebuild CentOS PLEX host, migrate to Debian using Ansible
+-->
