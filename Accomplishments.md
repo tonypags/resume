@@ -2,12 +2,16 @@
 Learn what Tony has specifically done on his teams to advance automation and DevOps best practices.
 
 ---
-* Took ownership of existing codebase providing immediate bug fixes and feature requests
-* Re-authored website in PHP to expose coded solutions to admins
-* Provision VMs via event-driven APIs & Azure DevOps pipelines to lower rollout time by 40%
+Migrated production RMM platforms with zero downtime  
+* Led bug triaging and root cause analysis for an inherited codebase
+    * Implemented structured debugging and automated logging solutions
+    * Resolved issues 400% faster
+* Architect and maintain test and prod environments hosting IT operations process automation  
+* Reengineered PHP web application with seamless access control, form templates, and refined UX 
 * Automated patching reminders using PSA contracts and RMM schedules, saving 20hrs/wk
 * Created script to gather new users across 200+ domains, generating $80-100k per month
-* Developed script to safely update DNS lists on 1500 servers saving 65 hours
+* Provision VMs via event-driven APIs & Azure DevOps pipelines to lower rollout time by 40%
+* Developed script to safely update static DNS configurations on 1500 servers saving 65 hours  
 * Migrate RMM platform without downtime for 200+ global firms and 10,000 endpoints
 * Team leader of a department with revenue measured in millions
 * Migrated 200 legacy scripts to dedicated server, using least-privilege service accounts 
@@ -22,9 +26,10 @@ Learn what Tony has specifically done on his teams to advance automation and Dev
 * Designed scalable, future-proof software deployment procedures for external clients 
 * Automated weekly operations workflows and QA checks, creating more time for projects 
 * Authored functional modules for existing, unstructured codebase, including: 
-    * Password vault integration 
-    * Endpoint protection compliance and available versions 
-    * Developer metrics from Azure DevOps, and scheduled tasks 
+    * Cisco hardware monitoring and just-in-time kickoff status reports
+    * Endpoint protection compliance using vendor available versions 
+    * CyberArk Password vault integration
+    * Developer metrics from Azure DevOps, and scheduled jobs
 * Designed modular solution for statistics database post-game sanity checks 
 * Retool several text parser scripts to leverage APIs, inbound and outbound 
     * ISP circuit maintenance schedules  
@@ -34,4 +39,13 @@ Learn what Tony has specifically done on his teams to advance automation and Dev
 * Performed non-intrusive workstation diagnostics using command line interfaces over WinRM/SSH 
 * Built custom interoperability between business platforms 
 * Designed and implemented new SOP for client on- and off-boarding, delivery of services  
-* Championed documentation of workflows to facilitate additional automation 
+* Championed documentation of workflows to facilitate additional automation
+* Led a team of 5 engineers maintaining systems and procedures for service delivery
+* Managed 4 IT professionals supporting an automation platform and service delivery
+* Maintained host systems for remote access and endpoint management platforms  
+* Deployed custom data collection and aggregation across disparate networks and systems  
+* Quickly mastered new platforms to deliver scalable client services  
+* Leveraged SQL data to drive root cause analysis and optimization of service delivery 
+* Redesigned maintenance into the top non-infrastructure service using unutilized features 
+* Assigned to several high-value clients after demonstrating excellent client-service aptitude
+* Developed and maintained real-time monitoring dashboards for production systems  
